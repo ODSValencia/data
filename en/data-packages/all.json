@@ -54,16 +54,16 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Home",
+                "Dona",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Gender"
           },
           {
             "name": "Value",
