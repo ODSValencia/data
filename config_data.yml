@@ -8,8 +8,8 @@
 # This tells sdg-build to perform "translated builds" for each of the specified
 # languages. Each build is in its own subfolder - one for each language.
 languages:
-  - en
   - es
+  - en
 
 # Destination directory
 # ---------------------
@@ -42,9 +42,6 @@ inputs:
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
-  - class: InputYamlMeta
-    path_pattern: indicator-config/*-*.yml
-    git: false
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.yml
