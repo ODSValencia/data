@@ -54,8 +54,19 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Home",
                 "Dona",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<16",
                 ""
               ]
             }

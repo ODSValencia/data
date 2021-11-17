@@ -11,13 +11,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "<16"
+              ]
+            },
+            "title": "Edad"
+          },
+          {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "Dona",
-                "Home"
+                "Home",
+                "Total"
               ]
             },
             "title": "Gender"
