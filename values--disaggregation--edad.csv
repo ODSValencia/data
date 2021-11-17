@@ -1,2 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
+16 a 24,1,1
 <16,1,1
+25 a 29,1,1
+30 a 54,1,1
+>=55,1,1

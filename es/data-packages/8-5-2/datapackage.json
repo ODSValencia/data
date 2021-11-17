@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Distrito",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1.0",
+                "10.0",
+                "11.0",
+                "12.0",
+                "13.0",
+                "14.0",
+                "15.0",
+                "16.0",
+                "17.0",
+                "18.0",
+                "19.0",
+                "2.0",
+                "3.0",
+                "4.0",
+                "5.0",
+                "6.0",
+                "7.0",
+                "8.0",
+                "9.0"
+              ]
+            },
+            "title": "Distrito"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "16 a 24",
+                "25 a 29",
+                "30 a 54",
+                ">=55"
+              ]
+            },
+            "title": "Edad"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Dona",
+                "Home"
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-2",
+  "title": "8-5-2"
+}
