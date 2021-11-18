@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Sexe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Dona",
+                "Home"
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Total",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Total"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-2-1",
+  "title": "3-2-1"
+}
