@@ -15,7 +15,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Any"
           },
           {
             "name": "Group",
@@ -32,7 +32,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -51,7 +51,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Any"
           },
           {
             "name": "Sexo",
@@ -87,7 +87,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },
@@ -106,7 +106,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Any"
           },
           {
             "name": "Gender",
@@ -119,7 +119,7 @@
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sexe"
           },
           {
             "name": "Edad",
@@ -135,7 +135,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           }
         ]
       },

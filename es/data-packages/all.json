@@ -27,12 +27,12 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           },
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           }
         ]
       },
@@ -82,12 +82,12 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           },
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           }
         ]
       },
@@ -125,17 +125,17 @@
                 "Total"
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Valor"
           },
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           }
         ]
       },
