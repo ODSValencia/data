@@ -543,6 +543,49 @@ prose:
                 value: 'notapplicable'
                 translation_key: status.not_applicable
             scope: data
+        - name: "data_non_statistical"
+        field:
+            element: checkbox
+            label: "Non-statistical indicator"
+            value: false
+            scope: data
+        - name: "data_footnote"
+          field:
+              element: text
+              label: "Footnote"
+              scope: data
+        - name: "data_geocode_regex"
+          field:
+              element: text
+              label: "GeoCode Regular Expression"
+              scope: data
+        - name: "data_keywords"
+          field:
+              element: text
+              label: "Search Keywords"
+              scope: data
+        - name: "data_show_map"
+          field:
+              element: checkbox
+              label: "Show the map when GeoCodes are present?"
+              value: false
+              scope: data  
+        ######### Chart Info #########
+        - name: "graph_type"
+          field: 
+              element: select 
+              label: "Graph type"
+              options:
+                - name: 'line'
+                  value: 'line'
+                - name: 'bar'
+                  value: 'bar'
+              scope: graph
+        - name: "graph_title"
+          field: 
+              element: text
+              label: "Graph Title"
+              scope: graph
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
