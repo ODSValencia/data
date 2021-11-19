@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Año"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1",
+  "title": "Cambio en la extensión de los ecosistemas relacionados con el agua con el paso del tiempo"
+}
