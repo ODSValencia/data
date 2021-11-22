@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-3-1",
-  "title": "Inversió estrangera directa, assistència oficial per al desenvolupament i cooperació Sud-Sud en proporció al pressupost nacional total"
+  "title": "Inversió estrangera directa (IED), ajuda oficial al desenvolupament i cooperació Sud-Sud com a proporció del pressupost nacional total"
 }

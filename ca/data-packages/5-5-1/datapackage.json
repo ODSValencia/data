@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-1",
-  "title": "Proporció d'escons ocupats per dones en a) els parlaments nacionals i b) els governs locals"
+  "title": "Proporció d’escons ocupats per dones en (a) parlaments nacionals i (b) governs locals"
 }

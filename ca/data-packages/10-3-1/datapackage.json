@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-3-1",
-  "title": "Proporció de la població que declara haver-se sentit personalment discriminada o assetjada en els últims 12 mesos per motius de discriminació prohibits pel dret internacional dels drets humans"
+  "title": "Proporció de la població que ha informat que s’ha sentit personalment discriminada o assetjada en els dotze mesos anteriors per motius de discriminació prohibits pel dret internacional de drets humans"
 }

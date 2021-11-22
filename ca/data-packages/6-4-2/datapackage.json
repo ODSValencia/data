@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-4-2",
-  "title": "Nivell d'estrès hídric: extracció d'aigua dolça en proporció als recursos d'aigua dolça disponibles"
+  "title": "Nivell d’estrès hídric: retirada d’aigua dolça com a proporció dels recursos disponibles d’aigua dolça"
 }

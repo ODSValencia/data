@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-5-3",
-  "title": "Nombre de països que adopten i apliquen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendái per a la Reducció del Risc de Desastres 2015‐2030"
+  "title": "Nombre de països que adopten i implementen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendai per a la reducció del risc de desastres 2015-2030"
 }

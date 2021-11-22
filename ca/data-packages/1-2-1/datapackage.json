@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "Age",
@@ -36,12 +36,12 @@
                 ""
               ]
             },
-            "title": "Edat"
+            "title": "Age"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-1",
-  "title": "Proporció de la població que viu per sota del llindar nacional de pobresa, desglossada per sexe i edat"
+  "title": "Proporció de població que viu per sota del llindar de pobresa nacional, per sexe i edat"
 }

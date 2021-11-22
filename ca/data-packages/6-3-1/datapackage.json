@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-3-1",
-  "title": "Proporció d'aigües residuals tractades de manera adequada"
+  "title": "Proporció d’aigües residuals tractades amb seguretat"
 }

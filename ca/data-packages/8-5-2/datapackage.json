@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Sexo",
@@ -49,7 +49,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -57,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-2",
-  "title": "Taxa de desocupació, desglossada per sexe, edat i persones amb discapacitat"
+  "title": "Taxa d’atur, per sexe, edat i persones amb discapacitat"
 }

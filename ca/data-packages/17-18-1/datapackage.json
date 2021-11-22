@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-18-1",
-  "title": "Proporció d'indicadors de desenvolupament sostenible produïts a nivell nacional, amb ple desglossament quan sigui pertinent per a la meta, de conformitat amb els Principis Fonamentals de les Estadístiques Oficials"
+  "title": "Proporció d’indicadors de desenvolupament sostenible produïts a nivell nacional amb total desagregació quan sigui rellevant per a l’objectiu, d’acord amb els principis fonamentals d’estadística oficial"
 }

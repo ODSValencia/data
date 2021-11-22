@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-5-1",
-  "title": "Nombre de persones mortes, desaparegudes i afectades directament atribuït a desastres per cada 100.000 habitants"
+  "title": "Nombre de morts, persones desaparegudes i persones afectades directament atribuïdes a desastres per cada 100.000 habitants"
 }

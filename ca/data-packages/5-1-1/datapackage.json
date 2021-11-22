@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-1",
-  "title": "Determinar si existeixen o no marcs jurídicos per a promoure, fer complir i supervisar la igualtat i la no discriminació per raó de sexe"
+  "title": "Si hi ha o no marcs legals per promoure, fer complir i controlar la igualtat i la no discriminació per raó de sexe"
 }

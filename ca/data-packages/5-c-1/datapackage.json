@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-c-1",
-  "title": "Proporció de països amb sistemes per al seguiment de la igualtat de gènere i l'apoderament de les dones i l'assignació de fons públics per a aquest fi"
+  "title": "Proporció de països amb sistemes per fer un seguiment i fer assignacions públiques per a la igualtat de gènere i l’empoderament de les dones"
 }

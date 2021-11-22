@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-8-1",
-  "title": "Taxes de freqüència de les lesions ocupacionals mortals i no mortals, desglossades per sexe i estatus migratori"
+  "title": "Taxes de freqüència de lesions laborals mortals i no mortals, per sexe i estatus de migrants"
 }

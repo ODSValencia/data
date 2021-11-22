@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "Age",
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "Edat"
+            "title": "Age"
           },
           {
             "name": "GeoCode",
@@ -48,7 +48,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -56,5 +56,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-2",
-  "title": "Proporció d'homes, dones i nens de totes les edats que viuen en la pobresa, en totes les seves dimensions, conformement a les definicions nacionals"
+  "title": "Proporció d’homes, dones i nens de totes les edats que viuen en la pobresa en totes les seves dimensions segons definicions nacionals"
 }

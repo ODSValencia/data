@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-1-2",
-  "title": "Morts relacionades amb conflictes per cada 100.000 habitants, desglossades per sexe, edat i causa"
+  "title": "Morts per conflicte per cada 100.000 habitants, per sexe, edat i causa"
 }

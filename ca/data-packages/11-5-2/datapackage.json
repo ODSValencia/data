@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-5-2",
-  "title": "Pèrdues econòmiques directes en relació amb el PIB mundial, danys en la infraestructura essencial i nombre d'interrupcions dels serveis bàsics atribuïts a desastres"
+  "title": "Pèrdua econòmica directa en relació amb el PIB mundial, danys a la infraestructura crítica i nombre d’alteracions als serveis bàsics atribuïdes a desastres"
 }

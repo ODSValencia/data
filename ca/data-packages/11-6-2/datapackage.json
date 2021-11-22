@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-6-2",
-  "title": "Nivells mitjans anuals de partícules fines en suspensió (per exemple, PM2.5 i PM10) a les ciutats (ponderats segons la població)"
+  "title": "Nivells mitjans anuals de partícules fines (per exemple, PM2,5 i PM10) a les ciutats (ponderat per població)"
 }

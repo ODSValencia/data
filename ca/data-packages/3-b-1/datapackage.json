@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-b-1",
-  "title": "Proporció de la població immunitzada amb totes les vacunes incloses en cada programa nacional"
+  "title": "Proporció de la població objectiu coberta per totes les vacunes incloses en el seu programa nacional"
 }

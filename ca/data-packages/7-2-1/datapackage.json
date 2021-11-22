@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-2-1",
-  "title": "Proporció d'energia renovable en el consum final total d'energia"
+  "title": "Quota d’energia renovable en el consum final total d’energia"
 }

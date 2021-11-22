@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-2-1",
-  "title": "Proporció de persones que viuen per sota del 50% de la mitjana dels ingressos, desglossada per sexe, edat i persones amb discapacitat"
+  "title": "Proporció de persones que viuen per sota del 50% de la renda mitjana, per sexe, edat i persones amb discapacitat"
 }

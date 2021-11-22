@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-3-2",
-  "title": "Proporció de detinguts que no han estat condemnats en el conjunt de la població reclusa total"
+  "title": "Detinguts sense sentència com a proporció de la població reclusa total"
 }

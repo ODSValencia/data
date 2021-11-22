@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-6-1",
-  "title": "Despeses primàries del govern en proporció al pressupost aprovat originalment, desglossats per sector (o per codis pressupostaris o elements similars)"
+  "title": "Despeses governamentals primàries en proporció del pressupost aprovat original, per sectors (o per codis pressupostaris o similars)"
 }

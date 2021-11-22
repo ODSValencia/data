@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-4-1",
-  "title": "Servei del deute en proporció a les exportacions de béns i serveis"
+  "title": "Servei de deutes com a proporció de les exportacions de béns i serveis"
 }

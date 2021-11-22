@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-2-1",
-  "title": "Empremta material en termes absoluts, empremta material per càpita i empremta material per PIB"
+  "title": "Petjada material, petjada material per càpita i petjada material per PIB"
 }

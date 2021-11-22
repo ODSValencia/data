@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-5-1",
-  "title": "Proporció de persones que han tingut almenys un contacte amb un funcionari públic i que han pagat un suborn a un funcionari públic, o a les quals un funcionari públic els ha demanat un suborn, durant els últims 12 mesos"
+  "title": "Proporció de persones que van tenir com a mínim un contacte amb un funcionari públic i que van pagar un suborn a un funcionari públic o que els funcionaris públics els van demanar un suborn durant els dotze mesos anteriors"
 }

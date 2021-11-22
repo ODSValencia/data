@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-5-2",
-  "title": "Nombre d'investigadors (en equivalent a temps complet) per cada milió d'habitants"
+  "title": "Investigadors (en equivalent a temps complet) per milió d’habitants"
 }

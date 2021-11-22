@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-10-1",
-  "title": "Nombre de casos verificats d'assassinat, segrest, desaparició forçada, detenció arbitrària i tortura de periodistes, membres associats dels mitjans de comunicació, sindicalistes i defensors dels drets humans, en els últims 12 mesos"
+  "title": "Nombre de casos verificats de matances, segrestos, desaparicions forçades, detenció arbitrària i tortures de periodistes, personal de mitjans associats, sindicalistes i defensors dels drets humans en els darrers 12 mesos"
 }

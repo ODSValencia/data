@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-a-1",
-  "title": "Existència d'institucions nacionals independents de drets humans, en compliment dels Principis de París"
+  "title": "Existència d’institucions nacionals independents de drets humans en compliment dels principis de París"
 }

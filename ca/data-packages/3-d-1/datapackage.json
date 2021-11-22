@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-d-1",
-  "title": "Capacitat prevista en el Reglament Sanitari Internacional (RSI) i preparació per a emergències de salut"
+  "title": "Capacitat del Reglament Sanitari Internacional (RSI) i preparació per a emergències sanitàries"
 }

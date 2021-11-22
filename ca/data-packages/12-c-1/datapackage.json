@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-c-1",
-  "title": "Quantia dels subsidis als combustibles fòssils per unitat de PIB (producció i consum) i en proporció al total de les despeses nacionals en combustibles fòssils"
+  "title": "Quantitat de subvencions als combustibles fòssils per unitat de PIB (producció i consum) i en proporció de la despesa nacional total en combustibles fòssils"
 }

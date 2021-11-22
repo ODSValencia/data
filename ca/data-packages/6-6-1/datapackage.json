@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-6-1",
-  "title": "Canvi en l'extensió dels ecosistemes relacionats amb l'aigua amb el pas del temps"
+  "title": "Canvi de l’extensió dels ecosistemes relacionats amb l’aigua al llarg del temps"
 }

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-5-1",
-  "title": "Taxa nacional de reciclatge, en tones de material reciclat"
+  "title": "Taxa nacional de reciclatge, tones de material reciclat"
 }

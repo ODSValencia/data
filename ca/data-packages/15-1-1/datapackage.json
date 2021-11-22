@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-1",
-  "title": "Superfície forestal en proporció a la superfície total"
+  "title": "Superfície forestal com a proporció de la superfície total del terreny"
 }

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-b-1",
-  "title": "Existència d'una estratègia nacional organitzada i en marxa per a l'ús dels joves, com a estratègia independent o com a part d'una estratègia nacional d'ocupació"
+  "title": "Existència d'una estratègia nacional desenvolupada i operacionalitzada per a l'ocupació juvenil, com a estratègia diferent o com a part d'una estratègia nacional d'ocupació"
 }

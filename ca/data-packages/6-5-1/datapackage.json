@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-5-1",
-  "title": "Grau d'implementació de la gestió integrada dels recursos hídrics (0‐100)"
+  "title": "Grau d'implementació de la gestió integrada dels recursos hídrics (0 a 100)"
 }

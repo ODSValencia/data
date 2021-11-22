@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-a-2",
-  "title": "Proporció de països l'ordenament jurídic dels quals (inclòs el dret consuetudinari) garanteix la igualtat de drets de la dona a la propietat o el control de les terres"
+  "title": "Proporció de països on el marc legal (inclòs el dret consuetudinari) garanteix la igualtat de drets de les dones a la propietat i / o control de la terra"
 }

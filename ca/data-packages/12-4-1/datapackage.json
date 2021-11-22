@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-4-1",
-  "title": "Nombre de parts en els acords ambientals multilaterals internacionals sobre deixalles perilloses i altres productes químics que compleixen els seus compromisos i obligacions de transmetre informació com s'exigeix en cadascun d'aquests acords"
+  "title": "Nombre de parts en acords ambientals multilaterals internacionals sobre residus perillosos i altres productes químics que compleixen els seus compromisos i obligacions en transmetre la informació que exigeix cada acord pertinent"
 }

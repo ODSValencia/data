@@ -15,19 +15,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "Age",
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "Edat"
+            "title": "Age"
           },
           {
             "name": "GeoCode",
@@ -50,11 +50,11 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "global_indicators.1-2-7-title"
+      "title": "Població en pobresa alta segons ingressos tributaris"
     },
     {
       "path": "1-1-1/data.csv",
@@ -69,7 +69,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Group",
@@ -86,7 +86,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -105,7 +105,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Sexo",
@@ -141,11 +141,11 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de desocupació, desglossada per sexe, edat i persones amb discapacitat"
+      "title": "Taxa d’atur, per sexe, edat i persones amb discapacitat"
     },
     {
       "path": "1-a-2/data.csv",
@@ -160,16 +160,16 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la despesa pública total que es dedica a serveis essencials (educació, salut i protecció social)"
+      "title": "Proporció de la despesa total del govern en serveis essencials (educació, salut i protecció social)"
     },
     {
       "path": "1-2-11/data.csv",
@@ -184,7 +184,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "GeoCode",
@@ -194,7 +194,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -213,16 +213,16 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció dels recursos generats a nivell intern que el govern assigna directament a programes de reducció de la pobresa"
+      "title": "Proporció de recursos generats a nivell nacional assignats pel govern directament als programes de reducció de la pobresa"
     },
     {
       "path": "1-2-2/data.csv",
@@ -237,19 +237,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "Age",
@@ -262,7 +262,7 @@
                 ""
               ]
             },
-            "title": "Edat"
+            "title": "Age"
           },
           {
             "name": "GeoCode",
@@ -272,11 +272,11 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'homes, dones i nens de totes les edats que viuen en la pobresa, en totes les seves dimensions, conformement a les definicions nacionals"
+      "title": "Proporció d’homes, dones i nens de totes les edats que viuen en la pobresa en totes les seves dimensions segons definicions nacionals"
     },
     {
       "path": "3-2-1/data.csv",
@@ -291,7 +291,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Total",
@@ -323,11 +323,11 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de mortalitat de nens menors de 5 anys"
+      "title": "Taxa de mortalitat menor de cinc anys"
     },
     {
       "path": "1-a-3/data.csv",
@@ -342,12 +342,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -366,7 +366,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "GeoCode",
@@ -376,7 +376,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -395,19 +395,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "Age",
@@ -418,12 +418,12 @@
                 ""
               ]
             },
-            "title": "Edat"
+            "title": "Age"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -442,19 +442,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "GeoCode",
@@ -464,7 +464,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -483,7 +483,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "GeoCode",
@@ -493,7 +493,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -512,19 +512,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "Age",
@@ -535,16 +535,16 @@
                 ""
               ]
             },
-            "title": "Edat"
+            "title": "Age"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que viu per sota del llindar nacional de pobresa, desglossada per sexe i edat"
+      "title": "Proporció de població que viu per sota del llindar de pobresa nacional, per sexe i edat"
     },
     {
       "path": "1-a-4/data.csv",
@@ -559,12 +559,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -583,19 +583,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "GeoCode",
@@ -605,7 +605,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -624,7 +624,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "GeoCode",
@@ -634,7 +634,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -653,19 +653,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "GeoCode",
@@ -675,7 +675,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -694,19 +694,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Homes",
-                "Dones",
+                "Men",
+                "Women",
                 ""
               ]
             },
-            "title": "Sexe"
+            "title": "Gender"
           },
           {
             "name": "Age",
@@ -717,12 +717,12 @@
                 ""
               ]
             },
-            "title": "Edat"
+            "title": "Age"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -741,16 +741,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de nens, nenes i adolescents que, a) en els cursos segon i tercer, b) al final de l'ensenyament primari i c) al final de l'ensenyament secundari inferior, han aconseguit almenys un nivell mínim de competència en i) lectura i ii) matemàtiques, desglossada per sexe"
+      "title": "Proporció d’infants i joves (a) als 2/3 graus; (b) al final de la primària; i (c) al final de la secundària inferior assolint almenys un nivell mínim de competència en (i) lectura i (ii) matemàtiques, per sexe"
     },
     {
       "path": "12-2-1/data.csv",
@@ -765,16 +765,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Empremta material en termes absoluts, empremta material per càpita i empremta material per PIB"
+      "title": "Petjada material, petjada material per càpita i petjada material per PIB"
     },
     {
       "path": "8-3-1/data.csv",
@@ -789,16 +789,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'ocupació informal en el sector no agrícola, desglossada per sexe"
+      "title": "Proporció d’ocupació informal en ocupacions no agrícoles, per sexe"
     },
     {
       "path": "15-b-1/data.csv",
@@ -813,16 +813,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Assistència oficial per al desenvolupament i despesa pública destinats a la conservació i l'ús sostenible de la biodiversitat i els ecosistemes"
+      "title": "Ajuda oficial al desenvolupament i despesa pública en conservació i ús sostenible de la biodiversitat i dels ecosistemes"
     },
     {
       "path": "10-c-1/data.csv",
@@ -837,16 +837,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Cost de les remeses en proporció a les sumes remeses"
+      "title": "Costos de remesa com a proporció de l'import remès"
     },
     {
       "path": "4-3-1/data.csv",
@@ -861,16 +861,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de participació dels joves i adults en l'ensenyament i formació acadèmica i no acadèmica en els últims 12 mesos, desglossada per sexe"
+      "title": "Taxa de participació de joves i adults en educació i formació formal i no formal en els dotze mesos anteriors, per sexe"
     },
     {
       "path": "3-1-2/data.csv",
@@ -885,16 +885,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de parts atesos per personal sanitari especialitzat"
+      "title": "Proporció de naixements atesos per personal sanitari qualificat"
     },
     {
       "path": "9-1-1/data.csv",
@@ -909,16 +909,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població rural que viu a menys de 2 km d'una carretera transitable tot l'any"
+      "title": "Proporció de la població rural que viu a menys de 2 km d’una carretera de tota temporada"
     },
     {
       "path": "3-d-2/data.csv",
@@ -933,12 +933,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -957,16 +957,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de persones que posseeixen un telèfon mòbil, desglossada per sexe."
+      "title": "Proporció de persones que posseeixen un telèfon mòbil, per sexe"
     },
     {
       "path": "12-2-2/data.csv",
@@ -981,16 +981,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Consum material intern en termes absoluts, consum material intern per càpita i consum material intern per PIB"
+      "title": "Consum de material domèstic, consum de material domèstic per càpita i consum de material domèstic per PIB"
     },
     {
       "path": "13-3-1/data.csv",
@@ -1005,16 +1005,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que han incorporat la mitigació del canvi climàtic, l'adaptació a ell, la reducció dels seus efectes i l'alerta primerenca en els plans d'estudis de l'ensenyament primari, secundària i terciària"
+      "title": "Nombre de països que han integrat la mitigació, l’adaptació, la reducció d’impacte i l’alerta precoç als plans d’estudis primaris, secundaris i terciaris"
     },
     {
       "path": "16-3-1/data.csv",
@@ -1029,16 +1029,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de víctimes de violència en els últims 12 mesos que han notificat la seva victimització a les autoritats competents o altres mecanismes de resolució de conflictes reconeguts oficialment"
+      "title": "Proporció de víctimes de violència durant els dotze mesos anteriors que van denunciar la seva victimització a les autoritats competents o a altres mecanismes de resolució de conflictes reconeguts oficialment"
     },
     {
       "path": "17-13-1/data.csv",
@@ -1053,16 +1053,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Tauler macroeconòmic"
+      "title": "Tauler de control macroeconòmic"
     },
     {
       "path": "6-4-2/data.csv",
@@ -1077,16 +1077,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nivell d'estrès hídric: extracció d'aigua dolça en proporció als recursos d'aigua dolça disponibles"
+      "title": "Nivell d’estrès hídric: retirada d’aigua dolça com a proporció dels recursos disponibles d’aigua dolça"
     },
     {
       "path": "14-4-1/data.csv",
@@ -1101,16 +1101,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de poblacions de peixos els nivells dels quals són biològicament sostenibles"
+      "title": "Proporció de poblacions de peixos dins de nivells biològicament sostenibles"
     },
     {
       "path": "14-5-1/data.csv",
@@ -1125,16 +1125,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Cobertura de les zones protegides en relació amb les zones marines"
+      "title": "Cobertura d'àrees protegides en relació amb zones marines"
     },
     {
       "path": "11-7-1/data.csv",
@@ -1149,16 +1149,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció mitjana de la superfície edificada de les ciutats que es dedica a espais oberts per a ús públic de tots, desglossada per sexe, edat i persones amb discapacitat"
+      "title": "Quota mitjana de la superfície construïda de les ciutats que és un espai obert per a ús públic per a tothom, per sexe, edat i persones amb discapacitat"
     },
     {
       "path": "4-5-1/data.csv",
@@ -1173,16 +1173,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Índexs de paritat (entre dones i homes, zones rurals i urbanes, quintils de riquesa superior i inferior i grups com els discapacitats, els pobles indígenes i els afectats pels conflictes, a mesura que es disposi de dades) per a tots els indicadors educatius d'aquesta llista que puguin desglossar-se"
+      "title": "Índexs de paritat (femení / masculí, rural / urbà, quintil de riquesa inferior / superior i altres com l'estat de discapacitat, els pobles indígenes i els afectats per conflictes, a mesura que es disposin de dades) per a tots els indicadors educatius d'aquesta llista que es poden desagregar"
     },
     {
       "path": "12-b-1/data.csv",
@@ -1197,16 +1197,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre d'estratègies o polítiques de turisme sostenible i de plans d'acció aplicats que inclouen instruments de seguiment i avaluació convinguts"
+      "title": "Nombre d'estratègies o polítiques de turisme sostenible i de plans d'acció implementats amb eines de seguiment i avaluació acordades"
     },
     {
       "path": "9-3-2/data.csv",
@@ -1221,16 +1221,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de les petites indústries que han obtingut un préstec o una línia de crèdit"
+      "title": "Proporció d’indústries a petita escala amb un préstec o una línia de crèdit"
     },
     {
       "path": "5-3-2/data.csv",
@@ -1245,16 +1245,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de nenes i dones d'entre 15 i 49 anys que han sofert mutilació o ablació genital femenina, desglossada per edat"
+      "title": "Proporció de nenes i dones de 15 a 49 anys que han estat objecte de mutilació / tall genital femení, per edats"
     },
     {
       "path": "17-3-2/data.csv",
@@ -1269,16 +1269,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Volum de remeses (en dòlars dels Estats Units) en proporció al PIB total"
+      "title": "Volum de remeses (en dòlars dels Estats Units) com a proporció del PIB total"
     },
     {
       "path": "8-b-1/data.csv",
@@ -1293,16 +1293,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Existència d'una estratègia nacional organitzada i en marxa per a l'ús dels joves, com a estratègia independent o com a part d'una estratègia nacional d'ocupació"
+      "title": "Existència d'una estratègia nacional desenvolupada i operacionalitzada per a l'ocupació juvenil, com a estratègia diferent o com a part d'una estratègia nacional d'ocupació"
     },
     {
       "path": "2-3-1/data.csv",
@@ -1317,16 +1317,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Volum de producció per unitat de treball desglossat per grandària i tipus d'explotació (agropecuària/ramadera/forestal)"
+      "title": "Volum de producció per unitat de treball per classes de mida de l’empresa agrícola / pastoral / forestal"
     },
     {
       "path": "16-8-1/data.csv",
@@ -1341,12 +1341,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -1365,16 +1365,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Indicadors de solidesa financera"
+      "title": "Indicadors de solidesa financera (FSI)"
     },
     {
       "path": "1-5-4/data.csv",
@@ -1389,16 +1389,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de governs locals que adopten i apliquen estratègies locals de reducció del risc de desastres d'acord amb les estratègies nacionals de reducció del risc de desastres"
+      "title": "Proporció de governs locals que adopten i implementen estratègies locals de reducció del risc de desastres d'acord amb les estratègies nacionals de reducció del risc de desastres"
     },
     {
       "path": "2-b-1/data.csv",
@@ -1413,16 +1413,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Subsidis a l'exportació de productes agropecuaris"
+      "title": "Subvencions a l'exportació agrícola"
     },
     {
       "path": "3-8-2/data.csv",
@@ -1437,16 +1437,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població amb grans despeses sanitàries per llar com a percentatge del total de despeses o ingressos de les llars"
+      "title": "Proporció de població amb grans despeses de la llar en salut com a part del total de la despesa o dels ingressos de la llar"
     },
     {
       "path": "3-9-3/data.csv",
@@ -1461,16 +1461,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de mortalitat atribuïda a intoxicacions involuntàries"
+      "title": "Taxa de mortalitat atribuïda a una intoxicació involuntària"
     },
     {
       "path": "2-c-1/data.csv",
@@ -1485,16 +1485,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Indicador d'anomalies en els preus dels aliments"
+      "title": "Indicador d’anomalies del preu dels aliments"
     },
     {
       "path": "4-6-1/data.csv",
@@ -1509,16 +1509,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població en un grup d'edat determinat que ha aconseguit almenys un nivell fix de competència funcional en a) alfabetització i b) nocions elementals d'aritmètica, desglossada per sexe"
+      "title": "Proporció de població en un grup d’edat determinat que assoleix, com a mínim, un nivell fix de competència en habilitats funcionals (a) alfabetització i (b), per sexe"
     },
     {
       "path": "10-4-2/data.csv",
@@ -1533,12 +1533,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -1557,16 +1557,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Índex de cobertura verda de les muntanyes"
+      "title": "Índex de coberta de Green Mountain"
     },
     {
       "path": "3-7-2/data.csv",
@@ -1581,16 +1581,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de fecunditat de les adolescents (entre 10 i 14 anys i entre 15 i 19 anys) per cada 1.000 dones d'aquest grup d'edat"
+      "title": "Taxa de natalitat d’adolescents (de 10 a 14 anys; de 15 a 19 anys) per cada 1.000 dones d’aquest grup d’edat"
     },
     {
       "path": "8-8-2/data.csv",
@@ -1605,16 +1605,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nivell de compliment nacional dels drets laborals (llibertat d'associació i negociació col·lectiva) conformement a les fonts textuals de l'Organització Internacional del Treball (OIT) i la legislació interna, desglossat per sexe i estatus migratori"
+      "title": "Nivell de compliment nacional dels drets laborals (llibertat d'associació i negociació col·lectiva) basat en les fonts textuals de l'Organització Internacional del Treball (OIT) i la legislació nacional, per sexe i estatus de migrant"
     },
     {
       "path": "1-3-1/data.csv",
@@ -1629,16 +1629,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població coberta per sistemes o nivells mínims de protecció social, desglossada per sexe, distingint entre els nens, els aturats, els ancians, les persones amb discapacitat, les dones embarassades, els nounats, les víctimes d'accidents de treball, els pobres i els vulnerables"
+      "title": "Proporció de població coberta per sistemes i sistemes de protecció social, per sexe, distingint nens, persones a l’atur, persones grans, persones amb discapacitat, dones embarassades, nadons, víctimes d’accidents de treball i pobres i vulnerables"
     },
     {
       "path": "15-9-1/data.csv",
@@ -1653,16 +1653,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Avanços en l'assoliment de les metes nacionals establertes de conformitat amb la segona Meta de Aichi per a la Diversitat Biològica del Pla Estratègic per a la Diversitat Biològica 2011‐2020"
+      "title": "Avanç cap als objectius nacionals establerts d'acord amb l'objectiu 2 d'Aichi de biodiversitat del pla estratègic per a la biodiversitat 2011-2020"
     },
     {
       "path": "16-2-3/data.csv",
@@ -1677,16 +1677,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de dones i homes joves d'entre 18 i 29 anys que van sofrir violència sexual abans de complir els 18 anys"
+      "title": "Proporció de dones i homes joves de 18 a 29 anys que van patir violència sexual als 18 anys"
     },
     {
       "path": "17-9-1/data.csv",
@@ -1701,16 +1701,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Valor en dòlars de l'assistència financera i tècnica (fins i tot mitjançant la cooperació Nord-Sud, Sud‐Sud i triangular) promesa als països en desenvolupament"
+      "title": "Valor en dòlars de l’assistència financera i tècnica (inclosa la cooperació nord-sud, sud-sud i triangular) compromesa amb els països en desenvolupament"
     },
     {
       "path": "8-8-1/data.csv",
@@ -1725,16 +1725,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxes de freqüència de les lesions ocupacionals mortals i no mortals, desglossades per sexe i estatus migratori"
+      "title": "Taxes de freqüència de lesions laborals mortals i no mortals, per sexe i estatus de migrants"
     },
     {
       "path": "16-6-2/data.csv",
@@ -1749,16 +1749,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que se sent satisfeta amb la seva última experiència dels serveis públics"
+      "title": "Proporció de població satisfeta amb la seva última experiència en serveis públics"
     },
     {
       "path": "5-6-2/data.csv",
@@ -1773,16 +1773,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països amb lleis i reglaments que garanteixen als homes i les dones a partir dels 15 anys d'edat un accés ple i igualitari als serveis de salut sexual i reproductiva i a la informació i educació sobre aquest tema"
+      "title": "Nombre de països amb lleis i regulacions que garanteixen l'accés total i igualitari de dones i homes de 15 anys i més a l'atenció, la informació i l'educació en salut sexual i reproductiva"
     },
     {
       "path": "12-4-2/data.csv",
@@ -1797,16 +1797,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Deixalles perilloses generades per càpita i proporció de deixalles perilloses tractades, desglossats per tipus de tractament"
+      "title": "Residus perillosos generats per càpita i proporció de residus perillosos tractats, per tipus de tractament"
     },
     {
       "path": "15-3-1/data.csv",
@@ -1821,16 +1821,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de terres degradades en comparació amb la superfície total"
+      "title": "Proporció de terres que es degraden sobre la superfície total del terreny"
     },
     {
       "path": "3-6-1/data.csv",
@@ -1845,16 +1845,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de mortalitat per lesions degudes a accidents de trànsit"
+      "title": "Taxa de mortalitat per lesions de trànsit"
     },
     {
       "path": "11-4-1/data.csv",
@@ -1869,16 +1869,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Total de despeses (públiques i privades) per càpita destinades a la preservació, protecció i conservació de tot el patrimoni cultural i natural, desglossat per tipus de patrimoni (cultural, natural, mixt i reconegut pel Centre del Patrimoni Mundial), nivell de govern (nacional, regional i local o municipal), tipus de despeses (despeses de funcionament o inversions) i tipus de finançament privat (donacions en espècie, finançament procedent del sector privat sense fins de lucre i patrocini)"
+      "title": "Despeses totals (públiques i privades) per càpita dedicades a la preservació, protecció i conservació de tot el patrimoni cultural i natural, per tipus de patrimoni (designació de Centre cultural, natural, mixt i del Patrimoni Mundial), nivell de govern (nacional, regional i local) / municipal), tipus de despesa (despesa de funcionament / inversió) i tipus de finançament privat (donacions en espècie, sector privat sense ànim de lucre i patrocini)"
     },
     {
       "path": "10-1-1/data.csv",
@@ -1893,16 +1893,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxes de creixement per càpita de les despeses o ingressos de les llars del 40% més pobre de la població i la població total"
+      "title": "Taxes de creixement de la despesa o ingressos per càpita de les llars entre el 40% inferior de la població i la població total"
     },
     {
       "path": "16-3-3/data.csv",
@@ -1917,12 +1917,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -1941,16 +1941,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Cost de la contractació sufragat per l'empleat en proporció als ingressos anuals percebuts al país de destinació"
+      "title": "Cost de contractació assumit per l’empleat en proporció dels ingressos anuals obtinguts al país de destinació"
     },
     {
       "path": "3-3-3/data.csv",
@@ -1965,16 +1965,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Incidència de la malària per cada 1.000 habitants"
+      "title": "Incidència de malària per cada 1.000 habitants"
     },
     {
       "path": "16-7-2/data.csv",
@@ -1989,16 +1989,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que considera que l'adopció de decisions és inclusiva i respon a les seves necessitats, desglossada per sexe, edat, discapacitat i grup de població"
+      "title": "Proporció de població que creu que la presa de decisions és inclusiva i sensible, per sexe, edat, discapacitat i grup de població"
     },
     {
       "path": "2-5-1/data.csv",
@@ -2013,16 +2013,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de recursos genètics vegetals i animals per a l'alimentació i l'agricultura preservats en instal·lacions de conservació a mitjà i llarg termini"
+      "title": "Nombre de recursos genètics vegetals i animals per a l'alimentació i l'agricultura assegurats en instal·lacions de conservació a mitjà o llarg termini"
     },
     {
       "path": "16-10-2/data.csv",
@@ -2037,16 +2037,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que adopten i apliquen garanties constitucionals, legals o normatives per a l'accés públic a la informació"
+      "title": "Nombre de països que adopten i implementen garanties constitucionals, estatutàries i / o polítiques d'accés públic a la informació"
     },
     {
       "path": "11-5-2/data.csv",
@@ -2061,16 +2061,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Pèrdues econòmiques directes en relació amb el PIB mundial, danys en la infraestructura essencial i nombre d'interrupcions dels serveis bàsics atribuïts a desastres"
+      "title": "Pèrdua econòmica directa en relació amb el PIB mundial, danys a la infraestructura crítica i nombre d’alteracions als serveis bàsics atribuïdes a desastres"
     },
     {
       "path": "11-3-2/data.csv",
@@ -2085,16 +2085,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de ciutats que compten amb una estructura de participació directa de la societat civil en la planificació i la gestió urbanes i funcionen amb regularitat i democràticament"
+      "title": "Proporció de ciutats amb una estructura de participació directa de la societat civil en la planificació i gestió urbanística que operen regularment i democràticament"
     },
     {
       "path": "9-b-1/data.csv",
@@ -2109,16 +2109,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció del valor afegit per la indústria de tecnologia mitjana i alta en el valor afegit total"
+      "title": "Proporció del valor afegit de la indústria de mitjana i alta tecnologia en valor afegit total"
     },
     {
       "path": "17-18-3/data.csv",
@@ -2133,16 +2133,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que compten amb un pla estadístic nacional plenament finançat i en procés d'aplicació, desglossat per font de finançament"
+      "title": "Nombre de països amb un pla estadístic nacional totalment finançat i en fase d’implementació, per font de finançament"
     },
     {
       "path": "6-a-1/data.csv",
@@ -2157,16 +2157,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Volum de l'assistència oficial per al desenvolupament destinada a l'aigua i el sanejament que forma part d'un pla de despeses coordinades pel govern"
+      "title": "Quantitat d’assistència oficial al desenvolupament relacionada amb l’aigua i el sanejament que forma part d’un pla de despeses coordinat pel govern"
     },
     {
       "path": "4-2-1/data.csv",
@@ -2181,16 +2181,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de nens menors de 5 anys el desenvolupament dels quals és adequat quant a la salut, l'aprenentatge i el benestar psicosocial, desglossada per sexe."
+      "title": "Proporció de nens menors de 5 anys que evolucionen en salut, aprenentatge i benestar psicosocial, per sexe"
     },
     {
       "path": "17-17-1/data.csv",
@@ -2205,16 +2205,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Suma en dòlars dels Estats Units promesa a les: a) aliances públic-privades i b) aliances amb la societat civil"
+      "title": "Quantitat de dòlars nord-americans compromesos amb aliances entre la societat civil i la privada"
     },
     {
       "path": "3-5-1/data.csv",
@@ -2229,16 +2229,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Cobertura dels tractaments(farmacològics i psicosocials i serveis de rehabilitació i posttractament) de trastorns per abús de substàncies addictives"
+      "title": "Cobertura d’intervencions terapèutiques (serveis farmacològics, psicosocials i de rehabilitació i postatenció) per a trastorns per consum de substàncies"
     },
     {
       "path": "8-10-2/data.csv",
@@ -2253,16 +2253,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'adults (a partir de 15 anys d'edat) que tenen un compte en un banc o una altra institució financera o un proveïdor de serveis de diners mòbils"
+      "title": "Proporció d’adults (majors de 15 anys) amb un compte en un banc o una altra institució financera o amb un proveïdor de serveis de diners mòbils"
     },
     {
       "path": "3-3-1/data.csv",
@@ -2277,16 +2277,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de noves infeccions pel VIH per cada 1.000 habitants no infectats, desglossat per sexe, edat i poblacions clau"
+      "title": "Nombre de noves infeccions per VIH per cada 1.000 persones no infectades, per sexe, edat i poblacions clau"
     },
     {
       "path": "1-4-2/data.csv",
@@ -2301,16 +2301,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció del total de la població adulta amb drets segurs de tinença de la terra: a) que posseeix documentació reconeguda legalment sobre aquest tema i b) considera segurs els seus drets, desglossada per sexe i tipus de tinença"
+      "title": "Proporció de la població adulta total amb drets de tinença segura a la terra, amb documentació legalment reconeguda i que percep els seus drets a la terra com a segurs, per sexe i per tipus de tinença"
     },
     {
       "path": "14-c-1/data.csv",
@@ -2325,16 +2325,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que, mitjançant marcs jurídicos, normatius i institucionals, avancen en la ratificació, l'acceptació i la implementació dels instruments relacionats amb els oceans que apliquen el dret internacional reflectit en la Convenció de les Nacions Unides sobre el Dret de la Mar per a la conservació i l'ús sostenible dels oceans i els seus recursos"
+      "title": "Nombre de països que avancen en la ratificació, l’acceptació i la implementació mitjançant marcs legals, polítics i institucionals, instruments relacionats amb els oceans que implementen el dret internacional, tal com es reflecteix a la Convenció de les Nacions Unides sobre el Dret del Mar, per a la conservació i l’ús sostenible de oceans i els seus recursos"
     },
     {
       "path": "8-1-1/data.csv",
@@ -2349,12 +2349,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -2373,16 +2373,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de països que a) han realitzat almenys un cens de població i habitatge en els últims deu anys; i b) han registrat el 100% dels naixements i el 80% de les defuncions"
+      "title": "Proporció de països que (a) han realitzat almenys un cens de població i habitatge en els darrers deu anys; i (b) han assolit el 100% de registres de naixement i el 80% de registres de defunció"
     },
     {
       "path": "2-5-2/data.csv",
@@ -2397,16 +2397,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de races i varietats locals considerades en risc d'extinció, sense risc o amb un nivell de risc desconegut"
+      "title": "Proporció de races locals classificades com a en risc, no en risc o en un nivell desconegut de risc d’extinció"
     },
     {
       "path": "14-6-1/data.csv",
@@ -2421,16 +2421,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Progressos realitzats pels països en el grau d'aplicació dels instruments internacionals l'objectiu dels quals és combatre la pesca il·legal, no declarada i no reglamentada"
+      "title": "Progrés dels països en el grau d’aplicació d’instruments internacionals destinats a combatre la pesca il·legal, no declarada i no regulada"
     },
     {
       "path": "6-b-1/data.csv",
@@ -2445,16 +2445,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de dependències administratives locals que han establert polítiques i procediments operacionals per a la participació de les comunitats locals en la gestió de l'aigua i el sanejament"
+      "title": "Proporció d'unitats administratives locals amb polítiques i procediments establerts i operatius per a la participació de les comunitats locals en la gestió de l'aigua i el sanejament"
     },
     {
       "path": "16-4-2/data.csv",
@@ -2469,16 +2469,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'armes confiscades, trobades o lliurades l'origen o el context de les quals il·lícits han estat determinats o establerts per una autoritat competent, de conformitat amb els instruments internacionals"
+      "title": "Proporció d’armes confiscades, trobades o lliurades l’origen o context il·lícit dels quals ha estat rastrejat o establert per una autoritat competent d’acord amb els instruments internacionals"
     },
     {
       "path": "12-1-1/data.csv",
@@ -2493,16 +2493,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que inclouen com a prioritat o fita en les polítiques nacionals plans d'acció nacionals sobre el consum i la producció sostenibles"
+      "title": "Nombre de països amb plans d'acció nacionals de consum i producció sostenibles (SCP) o SCP integrats com a prioritat o objectiu en les polítiques nacionals"
     },
     {
       "path": "9-a-1/data.csv",
@@ -2517,16 +2517,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Total de suport internacional oficial (assistència oficial per al desenvolupament més altres corrents oficials de recursos) destinat a la infraestructura"
+      "title": "Suport internacional oficial total (ajuda oficial al desenvolupament més altres fluxos oficials) a la infraestructura"
     },
     {
       "path": "9-3-1/data.csv",
@@ -2541,16 +2541,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció del valor afegit total del sector industrial corresponent a les petites indústries"
+      "title": "Proporció d’indústries a petita escala amb el valor afegit total de la indústria"
     },
     {
       "path": "15-2-1/data.csv",
@@ -2565,16 +2565,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Avanços cap a la gestió forestal sostenible"
+      "title": "Avanç cap a una gestió forestal sostenible"
     },
     {
       "path": "7-1-2/data.csv",
@@ -2589,16 +2589,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població la font primària de la qual d'energia són els combustibles i tecnologies nets"
+      "title": "Proporció de població amb principal dependència de combustibles nets i tecnologia"
     },
     {
       "path": "16-2-1/data.csv",
@@ -2613,16 +2613,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de nens d'entre 1 i 17 anys que han sofert algun càstig físic o agressió psicològica a les mans dels seus cuidadors en l'últim mes"
+      "title": "Proporció de nens d'entre 1 i 17 anys que van experimentar qualsevol càstig físic i / o agressió psicològica per part dels cuidadors el mes passat"
     },
     {
       "path": "11-b-1/data.csv",
@@ -2637,16 +2637,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que adopten i apliquen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendái per a la Reducció del Risc de Desastres 2015‐2030"
+      "title": "Nombre de països que adopten i implementen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendai per a la reducció del risc de desastres 2015-2030"
     },
     {
       "path": "17-19-1/data.csv",
@@ -2661,16 +2661,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Valor en dòlars de tots els recursos proporcionats per a enfortir la capacitat estadística dels països en desenvolupament"
+      "title": "Valor en dòlars de tots els recursos disponibles per enfortir la capacitat estadística als països en desenvolupament"
     },
     {
       "path": "3-3-5/data.csv",
@@ -2685,16 +2685,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de persones que requereixen intervencions contra malalties tropicals desateses"
+      "title": "Nombre de persones que necessiten intervencions contra malalties tropicals abandonades"
     },
     {
       "path": "8-2-1/data.csv",
@@ -2709,16 +2709,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de creixement anual del PIB real per persona ocupada"
+      "title": "Taxa de creixement anual del PIB real per ocupat"
     },
     {
       "path": "17-4-1/data.csv",
@@ -2733,16 +2733,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Servei del deute en proporció a les exportacions de béns i serveis"
+      "title": "Servei de deutes com a proporció de les exportacions de béns i serveis"
     },
     {
       "path": "11-7-2/data.csv",
@@ -2757,16 +2757,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de persones que han estat víctimes d'assetjament físic o sexual en els últims 12 mesos, desglossada per sexe, edat, grau de discapacitat i lloc del fet"
+      "title": "Proporció de persones víctimes d’assetjament físic o sexual, per sexe, edat, situació de discapacitat i lloc d’ocurrència, en els dotze mesos anteriors"
     },
     {
       "path": "3-1-1/data.csv",
@@ -2781,16 +2781,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de mortalitat materna"
+      "title": "Ràtio de mortalitat materna"
     },
     {
       "path": "17-1-1/data.csv",
@@ -2805,16 +2805,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Total d'ingressos del govern en proporció al PIB, desglossat per font."
+      "title": "Ingressos públics totals en proporció del PIB, per font"
     },
     {
       "path": "13-1-2/data.csv",
@@ -2829,16 +2829,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que adopten i apliquen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendái per a la Reducció del Risc de Desastres 2015‐2030"
+      "title": "Nombre de països que adopten i implementen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendai per a la reducció del risc de desastres 2015-2030"
     },
     {
       "path": "16-10-1/data.csv",
@@ -2853,16 +2853,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de casos verificats d'assassinat, segrest, desaparició forçada, detenció arbitrària i tortura de periodistes, membres associats dels mitjans de comunicació, sindicalistes i defensors dels drets humans, en els últims 12 mesos"
+      "title": "Nombre de casos verificats de matances, segrestos, desaparicions forçades, detenció arbitrària i tortures de periodistes, personal de mitjans associats, sindicalistes i defensors dels drets humans en els darrers 12 mesos"
     },
     {
       "path": "15-1-2/data.csv",
@@ -2877,16 +2877,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de llocs importants per a la biodiversitat terrestre i de l'aigua dolça inclosos en zones protegides, desglossada per tipus d'ecosistema"
+      "title": "Proporció de llocs importants per a la biodiversitat terrestre i d’aigua dolça que estan coberts per zones protegides, per tipus d’ecosistema"
     },
     {
       "path": "15-5-1/data.csv",
@@ -2901,16 +2901,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Índex de la Llista Vermella"
+      "title": "Índex de la llista vermella"
     },
     {
       "path": "11-6-2/data.csv",
@@ -2925,16 +2925,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nivells mitjans anuals de partícules fines en suspensió (per exemple, PM2.5 i PM10) a les ciutats (ponderats segons la població)"
+      "title": "Nivells mitjans anuals de partícules fines (per exemple, PM2,5 i PM10) a les ciutats (ponderat per població)"
     },
     {
       "path": "8-a-1/data.csv",
@@ -2949,16 +2949,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Compromisos i desemborsaments en relació amb la iniciativa Ajuda per al Comerç"
+      "title": "Ajuts per a compromisos i desemborsaments comercials"
     },
     {
       "path": "10-3-1/data.csv",
@@ -2973,16 +2973,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que declara haver-se sentit personalment discriminada o assetjada en els últims 12 mesos per motius de discriminació prohibits pel dret internacional dels drets humans"
+      "title": "Proporció de la població que ha informat que s’ha sentit personalment discriminada o assetjada en els dotze mesos anteriors per motius de discriminació prohibits pel dret internacional de drets humans"
     },
     {
       "path": "11-1-1/data.csv",
@@ -2997,16 +2997,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població urbana que viu en barris marginals, assentaments informals o habitatges inadequats"
+      "title": "Proporció de població urbana que viu en barris marginals, assentaments informals o habitatges inadequats"
     },
     {
       "path": "14-a-1/data.csv",
@@ -3021,16 +3021,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció del pressupost total de recerca assignada a la recerca en el camp de la tecnologia marina"
+      "title": "Proporció del pressupost total de recerca assignat a la investigació en el camp de la tecnologia marina"
     },
     {
       "path": "8-5-1/data.csv",
@@ -3045,16 +3045,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Ingrés mitjà per hora d'empleades i empleats, desglossat per ocupació, edat i persones amb discapacitat"
+      "title": "Salari mitjà horari d’empleats femenins i masculins, per ocupació, edat i persones amb discapacitat"
     },
     {
       "path": "12-3-1/data.csv",
@@ -3069,16 +3069,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Índex mundial de pèrdues d'aliments"
+      "title": "Índex global de pèrdua d’aliments"
     },
     {
       "path": "17-1-2/data.csv",
@@ -3093,16 +3093,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció del pressupost nacional finançat per impostos interns"
+      "title": "Proporció del pressupost intern finançat amb impostos nacionals"
     },
     {
       "path": "15-a-1/data.csv",
@@ -3117,16 +3117,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Assistència oficial per al desenvolupament i despesa pública destinats a la conservació i l'ús sostenible de la biodiversitat i els ecosistemes"
+      "title": "Ajuda oficial al desenvolupament i despesa pública en conservació i ús sostenible de la biodiversitat i dels ecosistemes"
     },
     {
       "path": "11-a-1/data.csv",
@@ -3141,16 +3141,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població resident en ciutats que apliquen plans de desenvolupament urbà i regional que tenen en compte les previsions demogràfiques i les necessitats de recursos, desglossada per grandària de ciutat"
+      "title": "Proporció de població que viu a ciutats que implementen plans de desenvolupament urbà i regional que integren projeccions de població i necessitats de recursos, segons la mida de la ciutat"
     },
     {
       "path": "10-a-1/data.csv",
@@ -3165,16 +3165,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de línies aranzelàries que s'apliquen a les importacions dels països menys avançats i els països en desenvolupament amb aranzel zero"
+      "title": "Proporció de línies aranzelàries aplicades a les importacions procedents de països menys desenvolupats i països en desenvolupament amb tarifa zero"
     },
     {
       "path": "13-a-1/data.csv",
@@ -3189,16 +3189,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Suma anual, en dòlars dels Estats Units, mobilitzada entre 2020 i 2025 com a part del compromís d'arribar a 100.000 milions de dòlars"
+      "title": "La quantitat mobilitzada de dòlars dels Estats Units per any entre el 2020 i el 2025 respon al compromís de 100.000 milions de dòlars"
     },
     {
       "path": "14-7-1/data.csv",
@@ -3213,16 +3213,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció del PIB corresponent a la pesca sostenible en els petits Estats insulars en desenvolupament, als països menys avançats i en tots els països"
+      "title": "Pesca sostenible com a proporció del PIB dels petits estats insulars en desenvolupament, dels països menys desenvolupats i de tots els països"
     },
     {
       "path": "15-7-1/data.csv",
@@ -3237,16 +3237,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'espècimens de flora i fauna silvestre comercialitzats procedents de la caça furtiva o el tràfic il·lícit"
+      "title": "Proporció de la vida salvatge comercialitzada que va ser furtivitzada o traficada il·lícitament"
     },
     {
       "path": "5-5-2/data.csv",
@@ -3261,16 +3261,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de dones en càrrecs directius"
+      "title": "Proporció de dones en llocs directius"
     },
     {
       "path": "13-1-3/data.csv",
@@ -3285,16 +3285,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de governs locals que adopten i apliquen estratègies locals de reducció del risc de desastres d'acord amb les estratègies nacionals de reducció del risc de desastres"
+      "title": "Proporció de governs locals que adopten i implementen estratègies locals de reducció del risc de desastres d'acord amb les estratègies nacionals de reducció del risc de desastres"
     },
     {
       "path": "12-7-1/data.csv",
@@ -3309,16 +3309,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que apliquen polítiques i plans d'acció sostenibles en matèria d'adquisicions públiques"
+      "title": "Nombre de països que implementen polítiques i plans d’acció de contractació pública sostenible"
     },
     {
       "path": "9-4-1/data.csv",
@@ -3333,16 +3333,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Emissions de CO2 per unitat de valor afegit"
+      "title": "Emissió de CO2 per unitat de valor afegit"
     },
     {
       "path": "13-2-1/data.csv",
@@ -3357,16 +3357,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que han comunicat l'establiment o la posada en marxa d'una política, estratègia o pla integrat que augmenti la seva capacitat per a adaptar-se als efectes adversos del canvi climàtic i que promouen la resiliència al clima i un desenvolupament amb baixes emissions de gasos d'efecte d'hivernacle sense comprometre per això la producció d'aliments (per exemple, un pla nacional d'adaptació, una contribució determinada a nivell nacional, una comunicació nacional o un informe biennal d'actualització)"
+      "title": "Nombre de països que han comunicat l'establiment o l'operativització d'una política / estratègia / pla integrada que augmenta la seva capacitat d'adaptació als impactes adversos del canvi climàtic, i afavoreix la resistència climàtica i el desenvolupament de baixes emissions de gasos d'efecte hivernacle d'una manera que no amenaça els aliments. producció (inclòs un pla nacional d’adaptació, contribució determinada a nivell nacional, comunicació nacional, informe d’actualització biennal o un altre)"
     },
     {
       "path": "6-5-2/data.csv",
@@ -3381,16 +3381,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la superfície de conques transfrontereres subjectes a arranjaments operacionals per a la cooperació en matèria d'aigües"
+      "title": "Proporció de la zona de conca transfronterera amb un acord operatiu per a la cooperació hídrica"
     },
     {
       "path": "16-4-1/data.csv",
@@ -3405,16 +3405,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Valor total dels corrents financers il·lícits entrants i sortints (en dòlars corrents dels Estats Units)"
+      "title": "Valor total dels fluxos financers il·lícits d’entrada i sortida (en dòlars actuals dels Estats Units)"
     },
     {
       "path": "16-3-2/data.csv",
@@ -3429,16 +3429,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de detinguts que no han estat condemnats en el conjunt de la població reclusa total"
+      "title": "Detinguts sense sentència com a proporció de la població reclusa total"
     },
     {
       "path": "6-1-1/data.csv",
@@ -3453,16 +3453,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que utilitza serveis de subministrament d'aigua potable gestionats sense riscos"
+      "title": "Proporció de població que utilitza serveis d’aigua potable gestionats amb seguretat"
     },
     {
       "path": "16-7-1/data.csv",
@@ -3477,16 +3477,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporcions de places (desglossades per sexe, edat, persones amb discapacitat i grups de població) en les institucions públiques (assemblees legislatives nacionals i locals, administració pública, poder judicial), en comparació amb la distribució nacional"
+      "title": "Proporcions de posicions (per sexe, edat, persones amb discapacitat i grups de població) en institucions públiques (legislatura nacional i local, servei públic i poder judicial) en comparació amb les distribucions nacionals"
     },
     {
       "path": "2-2-1/data.csv",
@@ -3501,16 +3501,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Prevalença del retard del creixement (alçada per a l'edat, desviació típica < -2 de la mitjana dels patrons de creixement infantil de l'Organització Mundial de la Salut (OMS)) entre els nens menors de 5 anys"
+      "title": "Prevalença de retard de creixement (alçada per edat <-2 desviació estàndard de la mediana de l'Organització Mundial de la Salut (OMS) Normes de creixement infantil) entre nens menors de 5 anys"
     },
     {
       "path": "5-c-1/data.csv",
@@ -3525,16 +3525,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de països amb sistemes per al seguiment de la igualtat de gènere i l'apoderament de les dones i l'assignació de fons públics per a aquest fi"
+      "title": "Proporció de països amb sistemes per fer un seguiment i fer assignacions públiques per a la igualtat de gènere i l’empoderament de les dones"
     },
     {
       "path": "17-3-1/data.csv",
@@ -3549,16 +3549,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Inversió estrangera directa, assistència oficial per al desenvolupament i cooperació Sud-Sud en proporció al pressupost nacional total"
+      "title": "Inversió estrangera directa (IED), ajuda oficial al desenvolupament i cooperació Sud-Sud com a proporció del pressupost nacional total"
     },
     {
       "path": "3-2-2/data.csv",
@@ -3573,12 +3573,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -3597,16 +3597,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Índex d'eutrofització costanera i densitat de detritus plàstics flotants"
+      "title": "Índex d’eutrofització costanera i densitat de deixalles plàstiques flotants"
     },
     {
       "path": "1-4-1/data.csv",
@@ -3621,16 +3621,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que viu en llars amb accés als serveis bàsics"
+      "title": "Proporció de població que viu en llars amb accés a serveis bàsics"
     },
     {
       "path": "8-4-2/data.csv",
@@ -3645,16 +3645,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Consum material intern en termes absoluts, consum material intern per càpita i consum material intern per PIB"
+      "title": "Consum de material domèstic, consum de material domèstic per càpita i consum de material domèstic per PIB"
     },
     {
       "path": "17-2-1/data.csv",
@@ -3669,16 +3669,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Assistència oficial per al desenvolupament neta, total i per als països menys avançats en proporció a l'ingrés nacional brut (INB) dels donants del Comitè d'Assistència per al Desenvolupament de l'Organització de Cooperació i Desenvolupament Econòmics (OCDE)"
+      "title": "Ajuda oficial al desenvolupament neta, total i als països menys desenvolupats, en proporció de la renda nacional bruta (RNB) dels donants del Comitè d’assistència al desenvolupament de l’Organització per a la cooperació i el desenvolupament econòmics (OCDE)"
     },
     {
       "path": "1-5-1/data.csv",
@@ -3693,16 +3693,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de persones mortes, desaparegudes i afectades directament atribuït a desastres per cada 100.000 habitants"
+      "title": "Nombre de morts, persones desaparegudes i persones afectades directament atribuïdes a desastres per cada 100.000 habitants"
     },
     {
       "path": "6-6-1/data.csv",
@@ -3717,16 +3717,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Canvi en l'extensió dels ecosistemes relacionats amb l'aigua amb el pas del temps"
+      "title": "Canvi de l’extensió dels ecosistemes relacionats amb l’aigua al llarg del temps"
     },
     {
       "path": "12-6-1/data.csv",
@@ -3741,16 +3741,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre d'empreses que publiquen informes sobre sostenibilitat"
+      "title": "Nombre d'empreses que publiquen informes de sostenibilitat"
     },
     {
       "path": "13-1-1/data.csv",
@@ -3765,16 +3765,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de persones mortes, desaparegudes i afectades directament atribuït a desastres per cada 100.000 persones"
+      "title": "Nombre de morts, persones desaparegudes i persones afectades directament atribuïdes a desastres per cada 100.000 habitants"
     },
     {
       "path": "16-9-1/data.csv",
@@ -3789,16 +3789,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de nens menors de 5 anys el naixement dels quals s'ha registrat davant una autoritat civil, desglossada per edat"
+      "title": "Proporció de menors de 5 anys els naixements dels quals han estat registrats a una autoritat civil, per edats"
     },
     {
       "path": "3-3-2/data.csv",
@@ -3813,16 +3813,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Incidència de la tuberculosi per cada 100.000 habitants"
+      "title": "Incidència de tuberculosi per cada 100.000 habitants"
     },
     {
       "path": "7-3-1/data.csv",
@@ -3837,16 +3837,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Intensitat energètica mesurada en funció de l'energia primària i el PIB"
+      "title": "Intensitat energètica mesurada en termes d’energia primària i PIB"
     },
     {
       "path": "8-7-1/data.csv",
@@ -3861,16 +3861,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció i nombre de nens d'entre 5 i 17 anys que fan treball infantil, desglossats per sexe i edat"
+      "title": "Proporció i nombre de nens de 5 a 17 anys dedicats al treball infantil, per sexe i edat"
     },
     {
       "path": "5-a-2/data.csv",
@@ -3885,16 +3885,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de països l'ordenament jurídic dels quals (inclòs el dret consuetudinari) garanteix la igualtat de drets de la dona a la propietat o el control de les terres"
+      "title": "Proporció de països on el marc legal (inclòs el dret consuetudinari) garanteix la igualtat de drets de les dones a la propietat i / o control de la terra"
     },
     {
       "path": "17-11-1/data.csv",
@@ -3909,16 +3909,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Participació dels països en desenvolupament i els països menys avançats en les exportacions mundials"
+      "title": "Quota de les exportacions mundials dels països en desenvolupament i dels països menys desenvolupats"
     },
     {
       "path": "3-9-1/data.csv",
@@ -3933,16 +3933,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de mortalitat atribuïda a la contaminació de les llars i de l'aire ambient"
+      "title": "Taxa de mortalitat atribuïda a la contaminació de l’aire domèstic i ambiental"
     },
     {
       "path": "2-a-2/data.csv",
@@ -3957,16 +3957,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Total de corrents oficials de recursos (assistència oficial per al desenvolupament més altres corrents oficials) destinat al sector agrícola"
+      "title": "Flux oficials totals (ajuda oficial al desenvolupament més altres fluxos oficials) cap al sector agrícola"
     },
     {
       "path": "4-4-1/data.csv",
@@ -3981,16 +3981,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de joves i adults amb competències en tecnologia de la informació i les comunicacions (TIC), desglossada per tipus de competència tècnica"
+      "title": "Proporció de joves i adults amb habilitats en tecnologia de la informació i les comunicacions (TIC), per tipus d’habilitat"
     },
     {
       "path": "3-4-2/data.csv",
@@ -4005,12 +4005,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -4029,16 +4029,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població amb cobertura de xarxa mòbil, desglossada per tecnologia"
+      "title": "Proporció de població coberta per una xarxa mòbil, per tecnologia"
     },
     {
       "path": "6-5-1/data.csv",
@@ -4053,16 +4053,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Grau d'implementació de la gestió integrada dels recursos hídrics (0‐100)"
+      "title": "Grau d'implementació de la gestió integrada dels recursos hídrics (0 a 100)"
     },
     {
       "path": "5-1-1/data.csv",
@@ -4077,16 +4077,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Determinar si existeixen o no marcs jurídicos per a promoure, fer complir i supervisar la igualtat i la no discriminació per raó de sexe"
+      "title": "Si hi ha o no marcs legals per promoure, fer complir i controlar la igualtat i la no discriminació per raó de sexe"
     },
     {
       "path": "16-2-2/data.csv",
@@ -4101,16 +4101,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de víctimes del tràfic de persones per cada 100.000 habitants, desglossat per sexe, edat i tipus d'explotació"
+      "title": "Nombre de víctimes de tràfic de persones per cada 100.000 habitants, per sexe, edat i forma d’explotació"
     },
     {
       "path": "10-2-1/data.csv",
@@ -4125,16 +4125,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de persones que viuen per sota del 50% de la mitjana dels ingressos, desglossada per sexe, edat i persones amb discapacitat"
+      "title": "Proporció de persones que viuen per sota del 50% de la renda mitjana, per sexe, edat i persones amb discapacitat"
     },
     {
       "path": "1-b-1/data.csv",
@@ -4149,16 +4149,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de les despeses públiques periòdiques i de capital que es dedica a sectors que beneficien de manera desproporcionada a les dones, els pobres i els grups vulnerables"
+      "title": "Proporció de despeses recurrents i de capital del govern als sectors que beneficien desproporcionadament a les dones, els pobres i els grups vulnerables"
     },
     {
       "path": "15-c-1/data.csv",
@@ -4173,16 +4173,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'espècimens de flora i fauna silvestre comercialitzats procedents de la caça furtiva o el tràfic il·lícit"
+      "title": "Proporció de la vida salvatge comercialitzada que va ser furtivitzada o traficada il·lícitament"
     },
     {
       "path": "16-1-2/data.csv",
@@ -4197,16 +4197,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Morts relacionades amb conflictes per cada 100.000 habitants, desglossades per sexe, edat i causa"
+      "title": "Morts per conflicte per cada 100.000 habitants, per sexe, edat i causa"
     },
     {
       "path": "4-2-2/data.csv",
@@ -4221,16 +4221,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de participació en l'aprenentatge organitzat (un any abans de l'edat oficial d'ingrés en l'ensenyament primari), desglossada per sexe"
+      "title": "Taxa de participació en l’aprenentatge organitzat (un any abans de l’edat oficial d’entrada primària), per sexe"
     },
     {
       "path": "3-4-1/data.csv",
@@ -4245,16 +4245,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de mortalitat atribuïda a les malalties cardiovasculars, el càncer, la diabetis o les malalties respiratòries cròniques"
+      "title": "Taxa de mortalitat atribuïda a malalties cardiovasculars, càncer, diabetis o malalties respiratòries cròniques"
     },
     {
       "path": "3-d-1/data.csv",
@@ -4269,16 +4269,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Capacitat prevista en el Reglament Sanitari Internacional (RSI) i preparació per a emergències de salut"
+      "title": "Capacitat del Reglament Sanitari Internacional (RSI) i preparació per a emergències sanitàries"
     },
     {
       "path": "16-1-4/data.csv",
@@ -4293,16 +4293,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que se sent segura en caminar sola en la seva zona de residència"
+      "title": "Proporció de població que se sent segura caminant sola per la zona on viuen"
     },
     {
       "path": "9-5-1/data.csv",
@@ -4317,16 +4317,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Despeses en recerca i desenvolupament en proporció al PIB"
+      "title": "Despeses de recerca i desenvolupament en proporció del PIB"
     },
     {
       "path": "17-5-1/data.csv",
@@ -4341,16 +4341,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que adopten i apliquen sistemes de promoció de les inversions en favor dels països menys avançats"
+      "title": "Nombre de països que adopten i implementen règims de promoció d’inversions per als països menys desenvolupats"
     },
     {
       "path": "17-14-1/data.csv",
@@ -4365,16 +4365,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que compten amb mecanismes per a millorar la coherència de les polítiques de desenvolupament sostenible"
+      "title": "Nombre de països amb mecanismes establerts per millorar la coherència de les polítiques de desenvolupament sostenible"
     },
     {
       "path": "17-18-1/data.csv",
@@ -4389,16 +4389,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'indicadors de desenvolupament sostenible produïts a nivell nacional, amb ple desglossament quan sigui pertinent per a la meta, de conformitat amb els Principis Fonamentals de les Estadístiques Oficials"
+      "title": "Proporció d’indicadors de desenvolupament sostenible produïts a nivell nacional amb total desagregació quan sigui rellevant per a l’objectiu, d’acord amb els principis fonamentals d’estadística oficial"
     },
     {
       "path": "2-2-3/data.csv",
@@ -4413,12 +4413,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -4437,16 +4437,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'energia renovable en el consum final total d'energia"
+      "title": "Quota d’energia renovable en el consum final total d’energia"
     },
     {
       "path": "4-b-1/data.csv",
@@ -4461,16 +4461,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Volum de l'assistència oficial per al desenvolupament destinada a beques, desglossat per sector i tipus d'estudi"
+      "title": "Volum de fluxos oficials d’ajuda al desenvolupament de beques per sector i tipus d’estudi"
     },
     {
       "path": "11-6-1/data.csv",
@@ -4485,16 +4485,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de deixalles sòlides urbanes recollides periòdicament i amb una descàrrega final adequada respecte del total de deixalles sòlides urbanes generades, desglossada per ciutat"
+      "title": "Proporció de residus sòlids urbans recollits regularment i amb un abocament final adequat del total de residus sòlids urbans generats per les ciutats"
     },
     {
       "path": "1-5-2/data.csv",
@@ -4509,16 +4509,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Pèrdues econòmiques directes atribuïdes als desastres en relació amb el producte interor brut (PIB) mundial"
+      "title": "Pèrdua econòmica directa atribuïda a desastres en relació amb el producte interior brut global (PIB)"
     },
     {
       "path": "2-1-1/data.csv",
@@ -4533,16 +4533,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Prevalença de la subalimentació"
+      "title": "Prevalença de desnutrició"
     },
     {
       "path": "10-b-1/data.csv",
@@ -4557,16 +4557,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Corrents totals de recursos per al desenvolupament, desglossades per país receptor i país donant i per tipus de corrent (per exemple, assistència oficial per al desenvolupament, inversió estrangera directa i altres corrents)"
+      "title": "Fluxos totals de recursos per al desenvolupament, per països receptors i donants i tipus de flux (per exemple, ajuda oficial al desenvolupament, inversió estrangera directa i altres fluxos)"
     },
     {
       "path": "10-6-1/data.csv",
@@ -4581,12 +4581,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -4605,16 +4605,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de temps dedicat al treball domèstic i assistencial no remunerat, desglossada per sexe, edat i ubicació"
+      "title": "Proporció del temps dedicat a treballs domèstics i de cura no remunerats, per sexe, edat i ubicació"
     },
     {
       "path": "3-b-3/data.csv",
@@ -4629,16 +4629,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de centres de salut que disposen d'un conjunt bàsic de medicaments essencials assequibles de manera sostenible"
+      "title": "Proporció d’instal·lacions sanitàries que disposen d’un conjunt bàsic de medicaments essencials rellevants disponibles i assequibles de manera sostenible"
     },
     {
       "path": "1-5-3/data.csv",
@@ -4653,16 +4653,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que adopten i apliquen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendái per a la Reducció del Risc de Desastres 2015‐2030"
+      "title": "Nombre de països que adopten i implementen estratègies nacionals de reducció del risc de desastres d'acord amb el Marc de Sendai per a la reducció del risc de desastres 2015-2030"
     },
     {
       "path": "11-5-1/data.csv",
@@ -4677,16 +4677,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de persones mortes, desaparegudes i afectades directament atribuït a desastres per cada 100.000 persones"
+      "title": "Nombre de morts, persones desaparegudes i persones afectades directament atribuïdes a desastres per cada 100.000 habitants"
     },
     {
       "path": "16-a-1/data.csv",
@@ -4701,16 +4701,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Existència d'institucions nacionals independents de drets humans, en compliment dels Principis de París"
+      "title": "Existència d’institucions nacionals independents de drets humans en compliment dels principis de París"
     },
     {
       "path": "3-9-2/data.csv",
@@ -4725,16 +4725,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa de mortalitat atribuïda a l'aigua insalubre, el sanejament deficient i la falta d'higiene (exposició a serveis insalubres d'aigua, sanejament i higiene per a tots (WASH))"
+      "title": "Taxa de mortalitat atribuïda a l’aigua no segura, al sanejament insegur i a la falta d’higiene (exposició als serveis d’aigua, sanejament i higiene per a tothom (WASH) no segurs)"
     },
     {
       "path": "6-3-2/data.csv",
@@ -4749,16 +4749,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de masses d'aigua de bona qualitat"
+      "title": "Proporció de masses d’aigua amb una bona qualitat de l’aigua ambiental"
     },
     {
       "path": "17-18-2/data.csv",
@@ -4773,16 +4773,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països la legislació nacional dels quals sobre estadístiques compleix els Principis Fonamentals de les Estadístiques Oficials"
+      "title": "Nombre de països que tenen legislació estadística nacional que compleix els principis fonamentals de les estadístiques oficials"
     },
     {
       "path": "3-c-1/data.csv",
@@ -4797,12 +4797,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -4821,16 +4821,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció del professorat d'educació a) preescolar, b) primària, c) secundària inferior i d) secundària superior que ha rebut almenys la mínima formació docent organitzada prèvia a l'ocupació o en l'ocupació (per exemple, formació pedagògica) exigida per a impartir ensenyament a cada nivell en un país determinat"
+      "title": "Proporció de professors en: (a) preescolar; (b) primària; (c) secundària inferior; i (d) educació secundària superior que hagi rebut com a mínim la formació organitzada mínima del professorat (per exemple, formació pedagògica) prèvia o en servei necessària per a la docència al nivell pertinent en un país determinat"
     },
     {
       "path": "9-5-2/data.csv",
@@ -4845,16 +4845,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre d'investigadors (en equivalent a temps complet) per cada milió d'habitants"
+      "title": "Investigadors (en equivalent a temps complet) per milió d’habitants"
     },
     {
       "path": "3-7-1/data.csv",
@@ -4869,16 +4869,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de dones en edat de procrear (entre 15 i 49 anys) que cobreixen les seves necessitats de planificació familiar amb mètodes moderns"
+      "title": "Proporció de dones en edat reproductiva (de 15 a 49 anys) que tenen la seva necessitat de planificació familiar satisfeta amb els mètodes moderns"
     },
     {
       "path": "13-b-1/data.csv",
@@ -4893,16 +4893,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països menys avançats i petits Estats insulars en desenvolupament que reben suport especialitzat, i quantitat de suport, en particular financer, tecnològic i de creació de capacitat, per als mecanismes de desenvolupament de la capacitat de planificació i gestió eficaces en relació amb el canvi climàtic, inclosos els centrats en les dones, els joves i les comunitats locals i marginades"
+      "title": "Nombre de països menys desenvolupats i petits estats insulars en desenvolupament que reben suport especialitzat i quantitat de suport, inclosos els finançaments, la tecnologia i la creació de capacitats, per als mecanismes per augmentar les capacitats per a una planificació i gestió eficaços relacionats amb el canvi climàtic, incloent-hi les dones, joves i comunitats locals i marginades"
     },
     {
       "path": "12-4-1/data.csv",
@@ -4917,16 +4917,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de parts en els acords ambientals multilaterals internacionals sobre deixalles perilloses i altres productes químics que compleixen els seus compromisos i obligacions de transmetre informació com s'exigeix en cadascun d'aquests acords"
+      "title": "Nombre de parts en acords ambientals multilaterals internacionals sobre residus perillosos i altres productes químics que compleixen els seus compromisos i obligacions en transmetre la informació que exigeix cada acord pertinent"
     },
     {
       "path": "12-8-1/data.csv",
@@ -4941,16 +4941,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Grau en què i) l'educació per a la ciutadania mundial i ii) l'educació per al desenvolupament sostenible (inclosa l'educació sobre el canvi climàtic) s'incorporen en a) les polítiques nacionals d'educació, b) els plans d'estudi, c) la formació del professorat i d) l'avaluació dels estudiants"
+      "title": "Mesura en què (i) l’educació per a la ciutadania mundial i (ii) l’educació per al desenvolupament sostenible (inclosa l’educació sobre el canvi climàtic) s’inclouen en (a) les polítiques educatives nacionals; (b) currículums; (c) formació del professorat; i (d) avaluació dels estudiants"
     },
     {
       "path": "7-b-1/data.csv",
@@ -4965,16 +4965,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Inversions en eficiència energètica en proporció al PIB i a la quantia de la inversió estrangera directa en transferències financeres destinades a infraestructura i tecnologia per a serveis de desenvolupament sostenible"
+      "title": "Inversions en eficiència energètica en proporció del PIB i la quantitat d’inversió estrangera directa en transferència financera d’infraestructures i tecnologia a serveis de desenvolupament sostenible"
     },
     {
       "path": "2-2-2/data.csv",
@@ -4989,16 +4989,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Prevalença de la malnutrició (pes per a l'alçada, desviació típica >+2 o <-2 de la mitjana dels patrons de creixement infantil de l'OMS) entre els nens menors de 5 anys, desglossada per tipus (emaciació i sobrepès)"
+      "title": "Prevalença de desnutrició (pes per alçada> +2 o <-2 desviació estàndard de la mitjana de les normes de creixement infantil de l’OMS) en nens menors de 5 anys, per tipus (desaprofitament i sobrepès)"
     },
     {
       "path": "2-4-1/data.csv",
@@ -5013,16 +5013,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la superfície agrícola en què es practica una agricultura productiva i sostenible"
+      "title": "Proporció de superfície agrícola sota agricultura productiva i sostenible"
     },
     {
       "path": "17-8-1/data.csv",
@@ -5037,16 +5037,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de persones que utilitzen Internet"
+      "title": "Proporció d’individus que utilitzen Internet"
     },
     {
       "path": "8-4-1/data.csv",
@@ -5061,16 +5061,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Empremta material en termes absoluts, Empremta material per càpita i Empremta material per PIB"
+      "title": "Petjada material, petjada material per càpita i petjada material per PIB"
     },
     {
       "path": "14-2-1/data.csv",
@@ -5085,16 +5085,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de zones econòmiques exclusives nacionals gestionades mitjançant enfocaments basats en els ecosistemes"
+      "title": "Proporció de zones econòmiques exclusives nacionals gestionades mitjançant enfocaments basats en ecosistemes"
     },
     {
       "path": "4-7-1/data.csv",
@@ -5109,16 +5109,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Grau en què i) l'educació per a la ciutadania mundial i ii) l'educació per al desenvolupament sostenible, inclosa la igualtat de gènere i els drets humans, s'incorporen en tots els nivells de a) les polítiques nacionals d'educació, b) els plans d'estudi, c) la formació del professorat i d) l'avaluació dels estudiants"
+      "title": "Fins a quin punt (i) l’educació per a la ciutadania mundial i (ii) l’educació per al desenvolupament sostenible, incloent la igualtat de gènere i els drets humans, s’inclouen a tots els nivells en (a) les polítiques educatives nacionals; (b) currículums; (c) formació del professorat; i (d) avaluació dels estudiants"
     },
     {
       "path": "10-7-4/data.csv",
@@ -5133,12 +5133,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -5157,16 +5157,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de països que han aprovat la legislació nacional pertinent i han destinat recursos suficients per a la prevenció o el control de les espècies exòtiques invasores"
+      "title": "Proporció de països que adoptin la legislació nacional rellevant i que obtinguin recursos adequats per a la prevenció o el control d'espècies exòtiques invasores"
     },
     {
       "path": "2-1-2/data.csv",
@@ -5181,16 +5181,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Prevalença de la inseguretat alimentària moderada o greu entre la població, segons l'escala d'experiència d'inseguretat alimentària"
+      "title": "Prevalença d’inseguretat alimentària moderada o greu a la població, basada en l’escala d’experiència d’inseguretat alimentària (FIES)"
     },
     {
       "path": "10-7-2/data.csv",
@@ -5205,16 +5205,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que han aplicat polítiques migratòries ben gestionades"
+      "title": "Nombre de països que han implementat polítiques migratòries ben gestionades"
     },
     {
       "path": "11-2-1/data.csv",
@@ -5229,16 +5229,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que té fàcil accés al transport públic, desglossada per sexe, edat i persones amb discapacitat"
+      "title": "Proporció de població que té un accés convenient al transport públic, per sexe, edat i persones amb discapacitat"
     },
     {
       "path": "3-b-2/data.csv",
@@ -5253,16 +5253,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Total net d'assistència oficial per al desenvolupament destinat als sectors de la recerca mèdica i l'atenció sanitària bàsica"
+      "title": "Total d’assistència oficial neta al desenvolupament a sectors d’investigació mèdica i de salut bàsica"
     },
     {
       "path": "16-1-1/data.csv",
@@ -5277,16 +5277,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de víctimes d'homicidis intencionals per cada 100.000 habitants, desglossat per sexe i edat"
+      "title": "Nombre de víctimes d'homicidi intencionat per cada 100.000 habitants, per sexe i edat"
     },
     {
       "path": "11-b-2/data.csv",
@@ -5301,16 +5301,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de governs locals que adopten i apliquen estratègies locals de reducció del risc de desastres d'acord amb les estratègies nacionals de reducció del risc de desastres"
+      "title": "Proporció de governs locals que adopten i implementen estratègies locals de reducció del risc de desastres d'acord amb les estratègies nacionals de reducció del risc de desastres"
     },
     {
       "path": "16-5-1/data.csv",
@@ -5325,16 +5325,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de persones que han tingut almenys un contacte amb un funcionari públic i que han pagat un suborn a un funcionari públic, o a les quals un funcionari públic els ha demanat un suborn, durant els últims 12 mesos"
+      "title": "Proporció de persones que van tenir com a mínim un contacte amb un funcionari públic i que van pagar un suborn a un funcionari públic o que els funcionaris públics els van demanar un suborn durant els dotze mesos anteriors"
     },
     {
       "path": "3-5-2/data.csv",
@@ -5349,16 +5349,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Consum nociu d'alcohol, definit segons el context nacional com el consum d'alcohol per càpita (a partir dels 15 anys d'edat) durant un any civil en litres d'alcohol pur"
+      "title": "Consum nociu d'alcohol, definit segons el context nacional com a consum d'alcohol per càpita (de 15 anys i més) en un any natural en litres d'alcohol pur"
     },
     {
       "path": "4-a-1/data.csv",
@@ -5373,16 +5373,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'escoles amb accés a a) electricitat, b) Internet amb finalitats pedagògics, c) computadores amb finalitats pedagògics, d) infraestructura i materials adaptats als estudiants amb discapacitat, e) subministrament bàsic d'aigua potable, f) instal·lacions de sanejament bàsiques separades per sexe i g) instal·lacions bàsiques per a la rentada de mans (segons les definicions dels indicadors WASH)"
+      "title": "Proporció d’escoles amb accés a (a) electricitat; (b) Internet amb finalitats pedagògiques; (c) ordinadors amb finalitats pedagògiques; (d) infraestructura i materials adaptats per a estudiants amb discapacitat; (e) aigua bàsica potable; (f) instal·lacions bàsiques de sanejament per a un sol sexe; i (g) instal·lacions bàsiques per rentar-se les mans (segons les definicions dels indicadors WASH)"
     },
     {
       "path": "8-6-1/data.csv",
@@ -5397,16 +5397,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de joves (entre 15 i 24 anys) que no cursen estudis, no estan ocupats ni reben capacitació"
+      "title": "Proporció de joves (de 15 a 24 anys) que no formen, no treballen ni formen"
     },
     {
       "path": "11-3-1/data.csv",
@@ -5421,12 +5421,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -5445,16 +5445,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de negocis que han tingut almenys un contacte amb un funcionari públic i que han pagat un suborn a un funcionari públic, o als quals un funcionari públic els ha demanat un suborn, durant els últims 12 mesos"
+      "title": "Proporció d'empreses que van tenir almenys un contacte amb un funcionari públic i que van pagar un suborn a un funcionari públic o que els funcionaris públics els van demanar durant els dotze mesos anteriors"
     },
     {
       "path": "5-a-1/data.csv",
@@ -5469,16 +5469,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "a) Proporció del total de la població agrícola amb drets de propietat o drets segurs sobre terres agrícoles, desglossada per sexe; i b) proporció de dones entre els propietaris o els titulars de drets sobre terres agrícoles, desglossada per tipus de tinença"
+      "title": "(a) Proporció de la població agrícola total amb propietat o drets segurs sobre les terres agrícoles, per sexe; i (b) proporció de dones entre propietaris o posseïdors de drets de terres agrícoles, per tipus de tinença"
     },
     {
       "path": "16-6-1/data.csv",
@@ -5493,16 +5493,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Despeses primàries del govern en proporció al pressupost aprovat originalment, desglossats per sector (o per codis pressupostaris o elements similars)"
+      "title": "Despeses governamentals primàries en proporció del pressupost aprovat original, per sectors (o per codis pressupostaris o similars)"
     },
     {
       "path": "2-3-2/data.csv",
@@ -5517,16 +5517,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Mitjana d'ingressos dels productors d'aliments en petita escala, desglossada per sexe i condició indígena"
+      "title": "Renda mitjana dels productors d'aliments a petita escala, per sexe i estatus indígena"
     },
     {
       "path": "12-c-1/data.csv",
@@ -5541,16 +5541,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Quantia dels subsidis als combustibles fòssils per unitat de PIB (producció i consum) i en proporció al total de les despeses nacionals en combustibles fòssils"
+      "title": "Quantitat de subvencions als combustibles fòssils per unitat de PIB (producció i consum) i en proporció de la despesa nacional total en combustibles fòssils"
     },
     {
       "path": "3-b-1/data.csv",
@@ -5565,16 +5565,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població immunitzada amb totes les vacunes incloses en cada programa nacional"
+      "title": "Proporció de la població objectiu coberta per totes les vacunes incloses en el seu programa nacional"
     },
     {
       "path": "5-2-1/data.csv",
@@ -5589,16 +5589,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de dones i nenes a partir de 15 anys d'edat que han sofert violència física, sexual o psicològica a les mans del seu actual o anterior parella en els últims 12 mesos, desglossada per forma de violència i edat"
+      "title": "Proporció de dones i nenes de 15 anys i més en parella sotmeses a violència física, sexual o psicològica per part d’una parella íntima actual o anterior en els dotze mesos anteriors, per forma de violència i per edat"
     },
     {
       "path": "17-10-1/data.csv",
@@ -5613,16 +5613,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Mitjana aranzelària mundial ponderada"
+      "title": "Mitjana aranzelària ponderada a tot el món"
     },
     {
       "path": "3-8-1/data.csv",
@@ -5637,16 +5637,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Cobertura dels serveis de salut essencials (definida com la cobertura mitjana dels serveis essencials entre la població general i els més desfavorits, calculada a partir d'intervencions traçadores com les relacionades amb la salut reproductiva, materna, neonatal i infantil, les malalties infeccioses, les malalties no transmissibles i la capacitat dels serveis i l'accés a ells)"
+      "title": "Cobertura de serveis de salut essencials (definida com la cobertura mitjana de serveis essencials basada en intervencions de traçat que inclouen salut reproductiva, materna, nounada i infantil, malalties infeccioses, malalties no transmissibles i capacitat i accés al servei, entre la població general i la més desfavorida )"
     },
     {
       "path": "6-3-1/data.csv",
@@ -5661,16 +5661,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'aigües residuals tractades de manera adequada"
+      "title": "Proporció d’aigües residuals tractades amb seguretat"
     },
     {
       "path": "17-12-1/data.csv",
@@ -5685,16 +5685,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Mitjana dels aranzels que enfronten els països en desenvolupament, els països menys avançats i els petits Estats insulars en desenvolupament"
+      "title": "Aranzels mitjans als quals s’enfronten els països en desenvolupament, els països menys desenvolupats i els petits estats insulars en desenvolupament"
     },
     {
       "path": "8-10-1/data.csv",
@@ -5709,16 +5709,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "a) Nombre de sucursals de bancs comercials per cada 100.000 adults i b) nombre de caixers automàtics per cada 100.000 adults"
+      "title": "(a) Nombre d'oficines de bancs comercials per cada 100.000 adults i (b) nombre de caixers automàtics (caixers automàtics) per cada 100.000 adults"
     },
     {
       "path": "15-1-1/data.csv",
@@ -5733,16 +5733,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Superfície forestal en proporció a la superfície total"
+      "title": "Superfície forestal com a proporció de la superfície total del terreny"
     },
     {
       "path": "7-1-1/data.csv",
@@ -5757,16 +5757,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que té accés a l'electricitat"
+      "title": "Proporció de població amb accés a l’electricitat"
     },
     {
       "path": "15-4-1/data.csv",
@@ -5781,16 +5781,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Llocs importants per a la biodiversitat de les muntanyes inclosos en zones protegides"
+      "title": "Cobertura per zones protegides de llocs importants per a la biodiversitat de les muntanyes"
     },
     {
       "path": "8-9-1/data.csv",
@@ -5805,16 +5805,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "PIB generat directament pel turisme en proporció al PIB total i a la taxa de creixement"
+      "title": "El PIB directe del turisme com a proporció del PIB total i la taxa de creixement"
     },
     {
       "path": "7-a-1/data.csv",
@@ -5829,16 +5829,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Corrents financers internacionals cap als països en desenvolupament per a donar suport a la recerca i el desenvolupament d'energies netes i la producció d'energia renovable, inclosos els sistemes híbrids"
+      "title": "Fluxos financers internacionals cap als països en desenvolupament per donar suport a la investigació i desenvolupament d’energies netes i la producció d’energies renovables, inclosos els sistemes híbrids"
     },
     {
       "path": "14-b-1/data.csv",
@@ -5853,16 +5853,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Progressos realitzats pels països en el grau d'aplicació d'un marc jurídic, reglamentari, normatiu o institucional que reconegui i protegeixi els drets d'accés per a la pesca en petita escala"
+      "title": "Progrés dels països en el grau d’aplicació d’un marc legal / regulador / polític / institucional que reconeix i protegeix els drets d’accés a la pesca a petita escala"
     },
     {
       "path": "16-b-1/data.csv",
@@ -5877,16 +5877,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que declara haver-se sentit personalment discriminada o assetjada en els últims 12 mesos per motius de discriminació prohibits pel dret internacional dels drets humans"
+      "title": "Proporció de la població que ha informat que s’ha sentit personalment discriminada o assetjada en els dotze mesos anteriors per motius de discriminació prohibits pel dret internacional de drets humans"
     },
     {
       "path": "2-a-1/data.csv",
@@ -5901,16 +5901,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Índex d'orientació agrícola per a la despesa pública"
+      "title": "L’índex d’orientació agrícola per a les despeses governamentals"
     },
     {
       "path": "3-a-1/data.csv",
@@ -5925,16 +5925,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Prevalença del consum actual de tabac a partir dels 15 anys d'edat (edats ajustades)"
+      "title": "Prevalença normalitzada per edat del consum actual de tabac en persones de 15 anys o més"
     },
     {
       "path": "5-2-2/data.csv",
@@ -5949,16 +5949,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de dones i nenes a partir de 15 anys d'edat que han sofert violència sexual a les mans de persones que no eren la seva parella en els últims 12 mesos, desglossada per edat i lloc del fet"
+      "title": "Proporció de dones i noies de 15 anys i més sotmeses a violència sexual per part de persones diferents d’una parella íntima en els dotze mesos anteriors, per edat i lloc d’ocurrència"
     },
     {
       "path": "17-15-1/data.csv",
@@ -5973,16 +5973,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Grau d'utilització dels marcs de resultats i les eines de planificació dels propis països pels proveïdors de cooperació per al desenvolupament"
+      "title": "Abast de l’ús de marcs de resultats i eines de planificació de propietat nacional per part dels proveïdors de cooperació al desenvolupament"
     },
     {
       "path": "10-4-1/data.csv",
@@ -5997,16 +5997,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció del PIB generada pel treball, que comprèn els salaris i les transferències de protecció social"
+      "title": "Quota laboral del PIB, que inclou salaris i transferències de protecció social"
     },
     {
       "path": "10-7-3/data.csv",
@@ -6021,12 +6021,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -6045,16 +6045,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Acidesa mitjana de la mar (pH) mesura en un conjunt convingut d'estacions de mostreig representatives"
+      "title": "Acidesa marina mitjana (pH) mesurada en un conjunt acordat d’estacions de mostreig representatives"
     },
     {
       "path": "9-2-1/data.csv",
@@ -6069,16 +6069,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Valor afegit del sector manufacturo en proporció al PIB i per càpita"
+      "title": "Valor afegit de la fabricació com a proporció del PIB i per càpita"
     },
     {
       "path": "6-4-1/data.csv",
@@ -6093,16 +6093,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Canvi en l'ús eficient dels recursos hídrics amb el pas del temps"
+      "title": "Canvi en l'eficiència de l'ús de l'aigua al llarg del temps"
     },
     {
       "path": "3-3-4/data.csv",
@@ -6117,16 +6117,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Incidència de l'hepatitis B per cada 100.000 habitants"
+      "title": "Incidència d’hepatitis B per cada 100.000 habitants"
     },
     {
       "path": "17-6-1/data.csv",
@@ -6141,16 +6141,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre d'acords i programes de cooperació en matèria de ciència o tecnologia subscrits pels països, desglossat per tipus de cooperació"
+      "title": "Nombre d'acords i programes de cooperació científica i / o tecnològica entre països, per tipus de cooperació"
     },
     {
       "path": "12-5-1/data.csv",
@@ -6165,16 +6165,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Taxa nacional de reciclatge, en tones de material reciclat"
+      "title": "Taxa nacional de reciclatge, tones de material reciclat"
     },
     {
       "path": "5-3-1/data.csv",
@@ -6189,16 +6189,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de dones d'entre 20 i 24 anys que estaven casades o mantenien una unió estable abans de complir els 15 anys i abans de complir els 18 anys"
+      "title": "Proporció de dones de 20 a 24 anys que estaven casades o en un sindicat abans dels 15 anys i abans dels 18 anys"
     },
     {
       "path": "6-2-1/data.csv",
@@ -6213,16 +6213,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que utilitza: a) serveis de sanejament gestionats sense riscos i b) instal·lacions per a la rentada de mans amb aigua i sabó"
+      "title": "Proporció de població que utilitza serveis de sanejament gestionats de manera segura, inclosa una instal·lació per rentar-se les mans amb aigua i sabó"
     },
     {
       "path": "4-1-2/data.csv",
@@ -6237,12 +6237,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -6261,16 +6261,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Total dels fons aprovats per als països en desenvolupament a fi de promoure el desenvolupament, la transferència i la difusió de tecnologies ecològicament racionals"
+      "title": "Import total del finançament aprovat per als països en desenvolupament per promoure el desenvolupament, la transferència, la difusió i la difusió de tecnologies respectuoses amb el medi ambient"
     },
     {
       "path": "9-2-2/data.csv",
@@ -6285,16 +6285,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Ús del sector manufacturer en proporció a l'ocupació total"
+      "title": "Ocupació manufacturera com a proporció de l’ocupació total"
     },
     {
       "path": "17-16-1/data.csv",
@@ -6309,16 +6309,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que informen dels seus progressos en els marcs de múltiples interessats per al seguiment de l'eficàcia de les activitats de desenvolupament que donen suport a l'assoliment dels Objectius de Desenvolupament Sostenible"
+      "title": "Nombre de països que informen dels avenços en marcs de control de l'eficàcia del desenvolupament de múltiples parts interessades que donen suport a la consecució dels objectius de desenvolupament sostenible"
     },
     {
       "path": "12-a-1/data.csv",
@@ -6333,16 +6333,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Quantitat de suport en matèria de recerca i desenvolupament prestat als països en desenvolupament per al consum i la producció sostenibles i les tecnologies ecològicament racionals"
+      "title": "Quantitat de suport als països en vies de desenvolupament en recerca i desenvolupament per al consum i la producció sostenibles i tecnologies respectuoses amb el medi ambient"
     },
     {
       "path": "5-5-1/data.csv",
@@ -6357,16 +6357,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció d'escons ocupats per dones en a) els parlaments nacionals i b) els governs locals"
+      "title": "Proporció d’escons ocupats per dones en (a) parlaments nacionals i (b) governs locals"
     },
     {
       "path": "5-6-1/data.csv",
@@ -6381,16 +6381,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de dones d'entre 15 i 49 anys que prenen les seves pròpies decisions informades sobre les relacions sexuals, l'ús d'anticonceptius i l'atenció de la salut reproductiva"
+      "title": "Proporció de dones de 15 a 49 anys que prenen les seves pròpies decisions informades sobre les relacions sexuals, l'ús d'anticonceptius i l'atenció de la salut reproductiva"
     },
     {
       "path": "15-6-1/data.csv",
@@ -6405,16 +6405,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Nombre de països que han adoptat marcs legislatius, administratius i normatius per a assegurar una distribució justa i equitativa dels beneficis"
+      "title": "Nombre de països que han adoptat marcs legislatius, administratius i polítics per garantir un repartiment just i equitatiu dels beneficis"
     },
     {
       "path": "9-1-2/data.csv",
@@ -6429,16 +6429,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Volum de transport de passatgers i càrrega, desglossat per mitjà de transport"
+      "title": "Volums de passatgers i de mercaderies, per mitjà de transport"
     },
     {
       "path": "13-2-2/data.csv",
@@ -6453,12 +6453,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
@@ -6477,16 +6477,16 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       },
-      "title": "Proporció de la població que ha sofert a) violència física, b) violència psicològica i c) violència sexual en els últims 12 mesos"
+      "title": "Proporció de població sotmesa a (a) violència física, (b) violència psicològica i (c) violència sexual durant els dotze mesos anteriors"
     }
   ]
 }

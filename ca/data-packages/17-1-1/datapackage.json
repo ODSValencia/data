@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-1-1",
-  "title": "Total d'ingressos del govern en proporció al PIB, desglossat per font."
+  "title": "Ingressos públics totals en proporció del PIB, per font"
 }

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-1-1",
-  "title": "Taxes de creixement per càpita de les despeses o ingressos de les llars del 40% més pobre de la població i la població total"
+  "title": "Taxes de creixement de la despesa o ingressos per càpita de les llars entre el 40% inferior de la població i la població total"
 }

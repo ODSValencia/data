@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-1",
-  "title": "Ingrés mitjà per hora d'empleades i empleats, desglossat per ocupació, edat i persones amb discapacitat"
+  "title": "Salari mitjà horari d’empleats femenins i masculins, per ocupació, edat i persones amb discapacitat"
 }

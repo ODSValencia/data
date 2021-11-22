@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-5-1",
-  "title": "Nombre de recursos genètics vegetals i animals per a l'alimentació i l'agricultura preservats en instal·lacions de conservació a mitjà i llarg termini"
+  "title": "Nombre de recursos genètics vegetals i animals per a l'alimentació i l'agricultura assegurats en instal·lacions de conservació a mitjà o llarg termini"
 }

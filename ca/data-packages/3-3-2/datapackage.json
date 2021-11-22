@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-2",
-  "title": "Incidència de la tuberculosi per cada 100.000 habitants"
+  "title": "Incidència de tuberculosi per cada 100.000 habitants"
 }

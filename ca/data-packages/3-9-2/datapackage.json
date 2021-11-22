@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-9-2",
-  "title": "Taxa de mortalitat atribuïda a l'aigua insalubre, el sanejament deficient i la falta d'higiene (exposició a serveis insalubres d'aigua, sanejament i higiene per a tots (WASH))"
+  "title": "Taxa de mortalitat atribuïda a l’aigua no segura, al sanejament insegur i a la falta d’higiene (exposició als serveis d’aigua, sanejament i higiene per a tothom (WASH) no segurs)"
 }

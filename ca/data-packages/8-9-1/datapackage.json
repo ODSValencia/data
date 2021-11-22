@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-9-1",
-  "title": "PIB generat directament pel turisme en proporció al PIB total i a la taxa de creixement"
+  "title": "El PIB directe del turisme com a proporció del PIB total i la taxa de creixement"
 }

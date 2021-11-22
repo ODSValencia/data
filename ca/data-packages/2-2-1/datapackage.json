@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-1",
-  "title": "Prevalença del retard del creixement (alçada per a l'edat, desviació típica < -2 de la mitjana dels patrons de creixement infantil de l'Organització Mundial de la Salut (OMS)) entre els nens menors de 5 anys"
+  "title": "Prevalença de retard de creixement (alçada per edat <-2 desviació estàndard de la mediana de l'Organització Mundial de la Salut (OMS) Normes de creixement infantil) entre nens menors de 5 anys"
 }

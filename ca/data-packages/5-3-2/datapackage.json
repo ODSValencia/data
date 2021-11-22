@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-3-2",
-  "title": "Proporció de nenes i dones d'entre 15 i 49 anys que han sofert mutilació o ablació genital femenina, desglossada per edat"
+  "title": "Proporció de nenes i dones de 15 a 49 anys que han estat objecte de mutilació / tall genital femení, per edats"
 }

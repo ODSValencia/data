@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-b-1",
-  "title": "Proporció del valor afegit per la indústria de tecnologia mitjana i alta en el valor afegit total"
+  "title": "Proporció del valor afegit de la indústria de mitjana i alta tecnologia en valor afegit total"
 }

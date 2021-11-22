@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-a-1",
-  "title": "Proporció de la població resident en ciutats que apliquen plans de desenvolupament urbà i regional que tenen en compte les previsions demogràfiques i les necessitats de recursos, desglossada per grandària de ciutat"
+  "title": "Proporció de població que viu a ciutats que implementen plans de desenvolupament urbà i regional que integren projeccions de població i necessitats de recursos, segons la mida de la ciutat"
 }

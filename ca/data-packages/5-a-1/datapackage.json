@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-a-1",
-  "title": "a) Proporció del total de la població agrícola amb drets de propietat o drets segurs sobre terres agrícoles, desglossada per sexe; i b) proporció de dones entre els propietaris o els titulars de drets sobre terres agrícoles, desglossada per tipus de tinença"
+  "title": "(a) Proporció de la població agrícola total amb propietat o drets segurs sobre les terres agrícoles, per sexe; i (b) proporció de dones entre propietaris o posseïdors de drets de terres agrícoles, per tipus de tinença"
 }

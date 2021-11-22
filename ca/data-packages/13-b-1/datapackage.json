@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "13-b-1",
-  "title": "Nombre de països menys avançats i petits Estats insulars en desenvolupament que reben suport especialitzat, i quantitat de suport, en particular financer, tecnològic i de creació de capacitat, per als mecanismes de desenvolupament de la capacitat de planificació i gestió eficaces en relació amb el canvi climàtic, inclosos els centrats en les dones, els joves i les comunitats locals i marginades"
+  "title": "Nombre de països menys desenvolupats i petits estats insulars en desenvolupament que reben suport especialitzat i quantitat de suport, inclosos els finançaments, la tecnologia i la creació de capacitats, per als mecanismes per augmentar les capacitats per a una planificació i gestió eficaços relacionats amb el canvi climàtic, incloent-hi les dones, joves i comunitats locals i marginades"
 }

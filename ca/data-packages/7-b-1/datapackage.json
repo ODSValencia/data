@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-b-1",
-  "title": "Inversions en eficiència energètica en proporció al PIB i a la quantia de la inversió estrangera directa en transferències financeres destinades a infraestructura i tecnologia per a serveis de desenvolupament sostenible"
+  "title": "Inversions en eficiència energètica en proporció del PIB i la quantitat d’inversió estrangera directa en transferència financera d’infraestructures i tecnologia a serveis de desenvolupament sostenible"
 }

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-1",
-  "title": "Valor afegit del sector manufacturo en proporció al PIB i per càpita"
+  "title": "Valor afegit de la fabricació com a proporció del PIB i per càpita"
 }

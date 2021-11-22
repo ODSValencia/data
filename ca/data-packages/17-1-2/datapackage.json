@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-1-2",
-  "title": "Proporció del pressupost nacional finançat per impostos interns"
+  "title": "Proporció del pressupost intern finançat amb impostos nacionals"
 }

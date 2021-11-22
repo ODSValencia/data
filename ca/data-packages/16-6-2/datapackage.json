@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-6-2",
-  "title": "Proporció de la població que se sent satisfeta amb la seva última experiència dels serveis públics"
+  "title": "Proporció de població satisfeta amb la seva última experiència en serveis públics"
 }

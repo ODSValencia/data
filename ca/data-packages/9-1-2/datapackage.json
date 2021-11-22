@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-2",
-  "title": "Volum de transport de passatgers i càrrega, desglossat per mitjà de transport"
+  "title": "Volums de passatgers i de mercaderies, per mitjà de transport"
 }

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "4-7-1",
-  "title": "Grau en què i) l'educació per a la ciutadania mundial i ii) l'educació per al desenvolupament sostenible, inclosa la igualtat de gènere i els drets humans, s'incorporen en tots els nivells de a) les polítiques nacionals d'educació, b) els plans d'estudi, c) la formació del professorat i d) l'avaluació dels estudiants"
+  "title": "Fins a quin punt (i) l’educació per a la ciutadania mundial i (ii) l’educació per al desenvolupament sostenible, incloent la igualtat de gènere i els drets humans, s’inclouen a tots els nivells en (a) les polítiques educatives nacionals; (b) currículums; (c) formació del professorat; i (d) avaluació dels estudiants"
 }

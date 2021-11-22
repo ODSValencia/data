@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-1-1",
-  "title": "Proporció de la població urbana que viu en barris marginals, assentaments informals o habitatges inadequats"
+  "title": "Proporció de població urbana que viu en barris marginals, assentaments informals o habitatges inadequats"
 }

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Any"
+            "title": "Year"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Valor"
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-a-1",
-  "title": "Compromisos i desemborsaments en relació amb la iniciativa Ajuda per al Comerç"
+  "title": "Ajuts per a compromisos i desemborsaments comercials"
 }
