@@ -23,7 +23,7 @@
                 ">=65"
               ]
             },
-            "title": "Age"
+            "title": "Edad"
           },
           {
             "name": "Gender",
@@ -245,7 +245,7 @@
                 ">=65"
               ]
             },
-            "title": "Age"
+            "title": "Edad"
           },
           {
             "name": "Gender",
@@ -401,7 +401,7 @@
                 "<16"
               ]
             },
-            "title": "Age"
+            "title": "Edad"
           },
           {
             "name": "Gender",
@@ -518,7 +518,7 @@
                 "<16"
               ]
             },
-            "title": "Age"
+            "title": "Edad"
           },
           {
             "name": "Gender",
@@ -700,7 +700,7 @@
                 "<16"
               ]
             },
-            "title": "Age"
+            "title": "Edad"
           },
           {
             "name": "Gender",
