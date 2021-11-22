@@ -45,7 +45,7 @@ inputs:
     path_pattern: data/*-*.csv
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
-    path_pattern: meta/*-*.md
+    path_pattern: meta/*-*.yml
     # This specifies whether or not to use Git to calculate the "last updated"
     # dates for data files.
     git: false
