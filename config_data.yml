@@ -48,7 +48,7 @@ inputs:
   #  git: true
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
-    path_pattern: meta/*-*.yml
+    path_pattern: meta/*-*.md
     # This specifies whether or not to use Git to calculate the "last updated"
     # dates for data files.
     git: true
@@ -117,3 +117,22 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This is mainly intended to show units of measurement and series, which are not
 # normally considered "disaggregation".
 # docs_extra_disaggregations: ['Units', 'Series']
+
+
+docs_metadata_fields:
+    - key: reporting_status
+      label: Reporting status
+    - key: un_designated_tier
+      label: UN designated tier
+    - key: un_custodian_agency
+      label: UN custodian agency
+    - key: data_non_statistical
+      label: Non-statistical
+    - key: data_show_map
+      label: Show map
+    - key: national_geographical_coverage
+      label: Geographical coverage
+    - key: computation_units
+      label: Units
+    - key: graph_type
+      label: Graph type
