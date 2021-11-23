@@ -11,21 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Sexe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Dona",
-                "Home"
-              ]
-            },
-            "title": "Sexe"
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
           },
           {
             "name": "Total",
@@ -38,14 +26,26 @@
             "title": "Total"
           },
           {
+            "name": "Sexe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Home",
+                "Dona",
+                ""
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Valor"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
           }
         ]
       }
