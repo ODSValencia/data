@@ -95,8 +95,8 @@ map_layers:
   - geojson_file: Distritos.geojson
     name_property: nombre
     id_property: coddistrit
-    #output_subfolder: distritos
-    #filename_prefix: indicator_
+    output_subfolder: distritos
+    filename_prefix: indicator_
 
 # Documentation settings
 # ----------------------
