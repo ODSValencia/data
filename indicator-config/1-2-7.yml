@@ -22,7 +22,7 @@ graph_titles: []
 graph_type: line
 indicator_name: global_indicators.1-2-7-title
 indicator_number: '1.2.7'
-national_geographical_coverage: Valencia
+national_geographical_coverage: custom-translation.ciudad
 page_content: ''
 permalink: ''
 precision: []
