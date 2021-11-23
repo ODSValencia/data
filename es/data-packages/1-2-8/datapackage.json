@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Men",
-                "Women"
+                "Hombres",
+                "Mujeres"
               ]
             },
-            "title": "Gender"
+            "title": "Sexo"
           },
           {
             "name": "GeoCode",
@@ -30,12 +30,12 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Valor"
           },
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Año"
           }
         ]
       }
