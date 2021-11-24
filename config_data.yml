@@ -126,7 +126,7 @@ data_schema:
   source: data-schema/*.yml
 
 map_layers:
-  - geojson_file: Distritos.geojson
+  - geojson_file: /blob/develop/Distritos.geojson
     name_property: nombre
     id_property: coddistrit
     output_subfolder: distrito
