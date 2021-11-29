@@ -10,7 +10,7 @@
 languages:
   - ca
   - es
-  - en
+#  - en
 
 # Destination directory
 # ---------------------
