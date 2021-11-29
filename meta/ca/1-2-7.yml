@@ -1,0 +1,28 @@
+SDG_GOAL: >- 
+  global_goals.1-title
+  
+SDG_TARGET: >- 
+  global_targets.1-2-title
+  
+SDG_INDICATOR: >- 
+  global_indicators.1-2-7-title
+STAT_CONC_DEF: >- 
+  ## Definition:
+  
+  Percentatge de persones amb ingressos per unitat de consum per davall del 40% de la mediana nacional d’ingressos per unitat de consum (escala OCDE modificada).
+  
+  ## Forma de càlcul:
+  
+  Quocient de la població en nivells de pobresa alta considerant el llindar nacional de pobresa alta l’any de referència respecte a la població resident. L’ingrés de
+  cadascuna de les persones que resideixen en una determinada llar es calcula com l’ingrés del total de la llar a la qual pertanyen entre el seu nombre d’unitats de 
+  consum. A continuació s’obté la mediana (percentil 50) de la distribució d’ingressos de totes les persones residents, sent el 40% d’aquest valor el llindar de pobresa
+  considerat en aquest indicador.
+  
+  
+UNIT_MEASURE: >-
+  Percentage
+DATA_SOURCE: >-
+  9907-Datos estadísticos de la ciudad de València. Pla Valencià d’Estadística 2019-2022. Explotació estadística Atles de Distribució de Renda de les 
+  Llars de l’Institut Nacional d’Estadística.
+OTHER_DOC: >-
+  Aquest indicador forma part del Panell ODS de la Xarxa Espanyola per al Desenvolupament Sostenible (https://spanish-cities.sdgindex.org/).
