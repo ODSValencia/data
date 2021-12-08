@@ -72,7 +72,7 @@ inputs:
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 1.5.0-dev
+    tag: 1.7.0-dev
   - class: TranslationInputSdgTranslations
     source: https://github.com/ODSValencia/sdg-translations.git
     tag: 1.4.0-dev
